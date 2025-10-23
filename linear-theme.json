@@ -1,0 +1,245 @@
+{
+  "theme": {
+    "name": "Linear.app Inspired Theme",
+    "description": "A dark, minimalist design system inspired by Linear.app",
+    "version": "1.0.0"
+  },
+  "colors": {
+    "primary": {
+      "50": "#f7f8f8",
+      "100": "#e6e7e8",
+      "200": "#d0d6e0",
+      "300": "#8a8f98",
+      "400": "#62666d",
+      "500": "#38383a",
+      "600": "#2a2a2c",
+      "700": "#1c1c1f",
+      "800": "#141516",
+      "900": "#08090a",
+      "950": "#0f1011"
+    },
+    "accent": {
+      "50": "#f0f0ff",
+      "100": "#e6e6ff",
+      "200": "#d0d0ff",
+      "300": "#b3b3ff",
+      "400": "#9999ff",
+      "500": "#5e6ad2",
+      "600": "#4c57b8",
+      "700": "#3d469e",
+      "800": "#2d3585",
+      "900": "#1f256b"
+    },
+    "semantic": {
+      "success": "#68cc58",
+      "warning": "#f2c94c",
+      "error": "#eb5757",
+      "info": "#4ea7fc"
+    },
+    "background": {
+      "primary": "#08090a",
+      "secondary": "#0f1011",
+      "tertiary": "#141516",
+      "quaternary": "#1c1c1f",
+      "overlay": "rgba(11, 11, 11, 0.8)",
+      "translucent": "rgba(255, 255, 255, 0.05)"
+    },
+    "text": {
+      "primary": "#f7f8f8",
+      "secondary": "#d0d6e0",
+      "tertiary": "#8a8f98",
+      "quaternary": "#62666d",
+      "inverse": "#08090a"
+    },
+    "border": {
+      "primary": "#23252a",
+      "secondary": "#34343a",
+      "tertiary": "#3e3e44",
+      "translucent": "rgba(255, 255, 255, 0.05)"
+    }
+  },
+  "typography": {
+    "fontFamily": {
+      "primary": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+      "mono": "\"Berkeley Mono\", ui-monospace, \"SF Mono\", Menlo, monospace"
+    },
+    "fontSize": {
+      "xs": "0.6875rem",
+      "sm": "0.75rem",
+      "base": "0.875rem",
+      "md": "0.9375rem",
+      "lg": "1.0625rem",
+      "xl": "1.3125rem",
+      "2xl": "1.5rem",
+      "3xl": "2rem",
+      "4xl": "2.5rem",
+      "5xl": "3rem",
+      "6xl": "3.5rem",
+      "7xl": "4rem",
+      "8xl": "4.5rem"
+    },
+    "fontWeight": {
+      "light": "300",
+      "normal": "400",
+      "medium": "510",
+      "semibold": "590",
+      "bold": "680"
+    },
+    "lineHeight": {
+      "tight": "1.1",
+      "snug": "1.33",
+      "normal": "1.4",
+      "relaxed": "1.5",
+      "loose": "1.6"
+    },
+    "letterSpacing": {
+      "tighter": "-0.022em",
+      "tight": "-0.015em",
+      "normal": "-0.012em",
+      "wide": "-0.01em"
+    }
+  },
+  "spacing": {
+    "0": "0px",
+    "1": "2px",
+    "2": "4px",
+    "3": "6px",
+    "4": "8px",
+    "5": "10px",
+    "6": "12px",
+    "7": "14px",
+    "8": "16px",
+    "10": "20px",
+    "12": "24px",
+    "16": "32px",
+    "20": "40px",
+    "24": "48px",
+    "28": "56px",
+    "32": "64px",
+    "40": "80px",
+    "48": "96px",
+    "56": "110px",
+    "64": "160px"
+  },
+  "borderRadius": {
+    "none": "0px",
+    "sm": "4px",
+    "base": "6px",
+    "md": "8px",
+    "lg": "10px",
+    "xl": "16px",
+    "2xl": "18px",
+    "3xl": "24px",
+    "4xl": "30px",
+    "full": "9999px"
+  },
+  "shadows": {
+    "none": "0px 0px 0px transparent",
+    "sm": "0px 2px 4px rgba(0, 0, 0, 0.1)",
+    "md": "0px 4px 24px rgba(0, 0, 0, 0.2)",
+    "lg": "0px 7px 32px rgba(0, 0, 0, 0.35)",
+    "stack": "rgba(0, 0, 0, 0) 0px 8px 2px 0px, rgba(0, 0, 0, 0.01) 0px 5px 2px 0px, rgba(0, 0, 0, 0.04) 0px 3px 2px 0px, rgba(0, 0, 0, 0.07) 0px 1px 1px 0px, rgba(0, 0, 0, 0.08) 0px 0px 1px 0px",
+    "inset": "rgba(255, 255, 255, 0.04) 0px 1.503px 5.261px 0px inset, rgba(255, 255, 255, 0.1) 0px -0.752px 0.752px 0px inset"
+  },
+  "layout": {
+    "maxWidth": {
+      "prose": "624px",
+      "container": "1024px",
+      "full": "100%"
+    },
+    "breakpoints": {
+      "sm": "640px",
+      "md": "768px",
+      "lg": "1024px",
+      "xl": "1280px",
+      "2xl": "1536px"
+    },
+    "zIndex": {
+      "base": "1",
+      "overlay": "500",
+      "popover": "600",
+      "dialog": "700",
+      "toast": "800",
+      "tooltip": "1100",
+      "max": "10000"
+    }
+  },
+  "animation": {
+    "duration": {
+      "fast": "0.1s",
+      "normal": "0.25s",
+      "slow": "0.5s"
+    },
+    "easing": {
+      "linear": "linear",
+      "easeOut": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+      "easeIn": "cubic-bezier(0.55, 0.085, 0.68, 0.53)",
+      "easeInOut": "cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+      "bouncy": "cubic-bezier(0.77, 0, 0.175, 1)"
+    }
+  },
+  "components": {
+    "button": {
+      "primary": {
+        "backgroundColor": "#5e6ad2",
+        "color": "#ffffff",
+        "borderRadius": "6px",
+        "padding": "12px 16px",
+        "fontSize": "14px",
+        "fontWeight": "510",
+        "boxShadow": "rgba(0, 0, 0, 0.2) 0px 4px 24px 0px",
+        "hover": {
+          "backgroundColor": "#828fff"
+        }
+      },
+      "secondary": {
+        "backgroundColor": "rgba(255, 255, 255, 0.05)",
+        "color": "#f7f8f8",
+        "borderRadius": "6px",
+        "padding": "12px 16px",
+        "fontSize": "14px",
+        "fontWeight": "510",
+        "hover": {
+          "backgroundColor": "rgba(255, 255, 255, 0.1)"
+        }
+      }
+    },
+    "card": {
+      "backgroundColor": "#141516",
+      "borderRadius": "8px",
+      "border": "1px solid #23252a",
+      "padding": "24px",
+      "boxShadow": "rgba(0, 0, 0, 0.35) 0px 7px 32px 0px"
+    },
+    "input": {
+      "backgroundColor": "#1c1c1f",
+      "color": "#f7f8f8",
+      "border": "1px solid #34343a",
+      "borderRadius": "6px",
+      "padding": "12px 16px",
+      "fontSize": "14px",
+      "focus": {
+        "borderColor": "#5e6ad2",
+        "outline": "2px solid #5e6ad2",
+        "outlineOffset": "2px"
+      }
+    },
+    "navigation": {
+      "backgroundColor": "rgba(11, 11, 11, 0.8)",
+      "backdropFilter": "blur(20px)",
+      "borderBottom": "1px solid rgba(255, 255, 255, 0.08)",
+      "height": "64px"
+    }
+  },
+  "patterns": {
+    "glassmorphism": {
+      "backgroundColor": "rgba(255, 255, 255, 0.05)",
+      "backdropFilter": "blur(20px)",
+      "border": "1px solid rgba(255, 255, 255, 0.1)"
+    },
+    "gradient": {
+      "primary": "linear-gradient(135deg, #5e6ad2 0%, #828fff 100%)",
+      "subtle": "linear-gradient(135deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.05) 100%)"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "servers": {
+    "playwright-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@microsoft/playwright-mcp",
+        "--key",
+        "074daf8a-d783-407d-8fbc-e7f62ed560ba"
+      ]
+    },
+     "next-devtools": {
+      "command": "npx",
+      "args": ["-y", "next-devtools-mcp@latest"]
+    }
+  }
+}
