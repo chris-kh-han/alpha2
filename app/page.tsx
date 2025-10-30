@@ -1,49 +1,54 @@
-import Link from "next/link";
+'use client';
 
-const resources = [
-  {
-    title: "Documentation",
-    href: "https://nextjs.org/docs",
-    description: "Learn more about Next.js features and API."
-  },
-  {
-    title: "Tailwind CSS",
-    href: "https://tailwindcss.com/docs",
-    description: "Discover utility-first styling to build modern UIs fast."
-  },
-  {
-    title: "Deploy",
-    href: "https://vercel.com",
-    description: "Deploy your Next.js app with zero configuration."
-  }
-];
+import { useEffect, useMemo, useState } from 'react';
+import DealCard from '@/components/DealCard';
 
-export default function HomePage() {
+type Deal = {
+  brand: string;
+  title: string;
+  link: string;
+  tags?: string[];
+  lastUpdated?: string;
+};
+
+export default function Page() {
+  const [q, setQ] = useState('');
+  const [deals, setDeals] = useState<Deal[]>([]);
+
+  useEffect(() => {
+    fetch('/deals.json', { cache: 'no-store' })
+      .then(r => r.json())
+      .then(setDeals)
+      .catch(() => setDeals([]));
+  }, []);
+
+  const filtered = useMemo(() => {
+    const k = q.toLowerCase();
+    return deals.filter(d =>
+      [d.brand, d.title, (d.tags || []).join(' ')].join(' ').toLowerCase().includes(k)
+    );
+  }, [deals, q]);
+
+  console.log(filtered);
+
   return (
-    <main className="flex w-full max-w-4xl flex-col items-center gap-10 text-center">
-      <div className="flex flex-col gap-4">
-        <p className="rounded-full border border-white/10 bg-white/5 px-4 py-1 text-sm font-medium uppercase tracking-[0.3em] text-white/70">
-          Next.js 15 + Tailwind CSS
-        </p>
-        <h1 className="text-4xl font-semibold sm:text-6xl">Welcome to your new project</h1>
-        <p className="text-lg text-white/70 sm:text-xl">
-          Kickstart development with the latest Next.js app router, fully configured with
-          Tailwind CSS and TypeScript.
-        </p>
-      </div>
-
-      <div className="grid w-full gap-4 sm:grid-cols-3">
-        {resources.map(({ title, description, href }) => (
-          <Link
-            key={title}
-            href={href}
-            className="group rounded-2xl border border-white/10 bg-white/5 p-6 text-left transition hover:border-white/40 hover:bg-white/10"
-          >
-            <h2 className="text-xl font-semibold transition group-hover:text-white">{title}</h2>
-            <p className="mt-2 text-sm text-white/70">{description}</p>
-          </Link>
+    <main className="mx-auto max-w-prose p-6 min-h-screen ">
+      <h1 className="text-3xl font-semibold text-text-primary mb-6 tracking-tight bg-background-primary text-center">
+        세일 모아보기
+      </h1>
+      
+      <input
+        value={q}
+        onChange={e => setQ(e.target.value)}
+        placeholder="검색: nike, black friday, thanksgiving..."
+        className="w-full bg-background-tertiary border border-border-primary rounded-md px-4 py-3 text-text-primary placeholder:text-text-tertiary focus:outline-none focus:ring-2 focus:ring-accent-500 focus:border-transparent transition-fast mb-6"
+      />
+      
+      <ul className="space-y-3">
+        {filtered.map((d, i) => (
+          <DealCard key={i} {...d} />
         ))}
-      </div>
+      </ul>
     </main>
   );
 }

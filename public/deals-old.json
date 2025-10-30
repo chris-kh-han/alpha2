@@ -1,0 +1,107 @@
+[{
+    "brand": "Nike",
+    "title": "Black Friday 최대 40% 세일",
+    "link": "https://www.nike.com/kr/w/sale",
+    "tags": ["black-friday", "shoes", "sports"],
+    "lastUpdated": "2025-10-30"
+  },
+  {
+    "brand": "Amazon",
+    "title": "Thanksgiving Deals",
+    "link": "https://www.amazon.com/blackfriday",
+    "tags": ["thanksgiving", "electronics"],
+    "lastUpdated": "2025-10-30"
+  },
+  {
+    "brand": "Apple",
+    "title": "Black Friday 4일간 특별 이벤트",
+    "link": "https://www.apple.com/kr/shop/gifts/shopping-event",
+    "tags": ["black-friday", "electronics", "iphone", "macbook"],
+    "lastUpdated": "2025-10-31"
+  },
+  {
+    "brand": "Samsung",
+    "title": "갤럭시 블랙프라이데이 최대 30% 할인",
+    "link": "https://www.samsung.com/sec/offer/",
+    "tags": ["black-friday", "smartphone", "galaxy"],
+    "lastUpdated": "2025-10-31"
+  },
+  {
+    "brand": "Adidas",
+    "title": "아디다스 가을 세일 50% OFF",
+    "link": "https://www.adidas.co.kr/sale",
+    "tags": ["shoes", "sports", "clothing"],
+    "lastUpdated": "2025-10-30"
+  },
+  {
+    "brand": "Uniqlo",
+    "title": "유니클로 감사제 특가",
+    "link": "https://www.uniqlo.com/kr/ko/sale",
+    "tags": ["thanksgiving", "clothing", "fashion"],
+    "lastUpdated": "2025-10-31"
+  },
+  {
+    "brand": "Coupang",
+    "title": "쿠팡 로켓배송 블랙프라이데이",
+    "link": "https://www.coupang.com/np/categories/393760",
+    "tags": ["black-friday", "electronics", "home"],
+    "lastUpdated": "2025-10-31"
+  },
+  {
+    "brand": "29CM",
+    "title": "29CM 블랙프라이데이 최대 70% 세일",
+    "link": "https://www.29cm.co.kr/event/",
+    "tags": ["black-friday", "fashion", "clothing"],
+    "lastUpdated": "2025-10-30"
+  },
+  {
+    "brand": "Musinsa",
+    "title": "무신사 메가세일",
+    "link": "https://www.musinsa.com/app/",
+    "tags": ["fashion", "clothing", "shoes"],
+    "lastUpdated": "2025-10-31"
+  },
+  {
+    "brand": "Best Buy",
+    "title": "Black Friday Early Access Deals",
+    "link": "https://www.bestbuy.com/site/black-friday",
+    "tags": ["black-friday", "electronics", "tv", "laptop"],
+    "lastUpdated": "2025-10-31"
+  },
+  {
+    "brand": "Target",
+    "title": "Target Black Friday Sale",
+    "link": "https://www.target.com/c/black-friday",
+    "tags": ["black-friday", "home", "toys"],
+    "lastUpdated": "2025-10-30"
+  },
+  {
+    "brand": "Zara",
+    "title": "자라 시즌 오프 세일",
+    "link": "https://www.zara.com/kr/sale",
+    "tags": ["fashion", "clothing"],
+    "lastUpdated": "2025-10-31"
+  },
+  {
+    "brand": "H&M",
+    "title": "H&M Black Friday 특별 할인",
+    "link": "https://www2.hm.com/ko_kr/sale.html",
+    "tags": ["black-friday", "fashion", "clothing"],
+    "lastUpdated": "2025-10-30"
+  },
+  {
+    "brand": "PlayStation",
+    "title": "PS5 블랙프라이데이 게임 세일",
+    "link": "https://store.playstation.com/ko-kr/pages/latest/black-friday",
+    "tags": ["black-friday", "gaming", "ps5"],
+    "lastUpdated": "2025-10-31"
+  },
+  {
+    "brand": "Steam",
+    "title": "Steam 추수감사절 세일",
+    "link": "https://store.steampowered.com/",
+    "tags": ["thanksgiving", "gaming", "pc"],
+    "lastUpdated": "2025-10-31"
+  }
+
+]

@@ -1,0 +1,20 @@
+[
+  
+
+
+
+  {
+    "provider": "kakaopay",
+    "brand": "Agoda",
+    "title": "카카오페이 결제 11% 할인",
+    "benefit_type": "discount",
+    "value_text": "최대 1만원",
+    "category": ["여행"],
+    "channel": "online",
+    "region": "KR",
+    "end_date": "2025-11-30",
+    "login_required": false,
+    "source_url": "https://example.com/kakaopay-agoda",
+    "last_seen": "2025-10-31T12:00:00+09:00"
+  }
+]
