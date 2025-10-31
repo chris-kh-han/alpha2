@@ -1,0 +1,39 @@
+name: build-deals
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 6시간마다 실행
+  workflow_dispatch:         # 수동 실행 가능
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 8
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'pnpm'
+      
+      - name: Install dependencies
+        run: pnpm install
+      
+      - name: Discover sale pages
+        run: pnpm tsx scripts/discover.ts www.nike.com
+      
+      - name: Extract product deals
+        run: pnpm tsx scripts/fetch-jsonld.ts
+      
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update product_deals.json"
+          file_pattern: "data/sale_pages.json public/product_deals.json"
