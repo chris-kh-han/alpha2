@@ -37,12 +37,15 @@ async function fromSitemap(base:string) {
   return out;
 }
 async function crawl(base:string, max=120) {
-  console.log("🕷️  Crawling website...");
+  console.log("🕷️  Crawling website for product pages...");
   const origin = new URL(base).origin;
-  const q=[origin]; const seen=new Set<string>(); const found=new Set<string>();
+  const q=[origin]; const seen=new Set<string>(); 
+  const salePages=new Set<string>(); 
+  const productPages=new Set<string>();
+  
   while(q.length && seen.size<max){
     const u=q.shift()!; if(seen.has(u)) continue; seen.add(u);
-    if (seen.size % 10 === 0) console.log(`  Crawled ${seen.size} pages...`);
+    if (seen.size % 10 === 0) console.log(`  Crawled ${seen.size} pages, found ${productPages.size} products...`);
     try{
       const html = await get(u); const $=cheerio.load(html);
       $("a[href]").each((_,a)=>{
@@ -51,25 +54,36 @@ async function crawl(base:string, max=120) {
           if(link.origin!==origin) return;
           const s=link.toString();
           const hay=[s,$(a).text(),$("title").text()].join(" ");
-          if(KW.test(hay)) found.add(s);
-          if(!seen.has(s) && q.length<max) q.push(s);
+          
+          // Nike 제품 상세 페이지 패턴: /t/product-name/SKU
+          if(s.includes("/t/") && s.match(/\/t\/[\w-]+\/[\w-]+$/)) {
+            productPages.add(s);
+          }
+          
+          // 세일 카테고리 페이지는 계속 크롤
+          if(KW.test(hay)) {
+            salePages.add(s);
+            if(!seen.has(s) && q.length<max) q.push(s);
+          }
         }catch{}
       });
     }catch{}
   }
-  console.log(`  ✅ Found ${found.size} sale URLs from crawling`);
-  return Array.from(found);
+  console.log(`  ✅ Found ${productPages.size} product pages`);
+  console.log(`  ✅ Found ${salePages.size} sale category pages`);
+  return Array.from(productPages);
 }
 async function main(domain:string){
   console.log(`\n🚀 Starting discovery for: ${domain}\n`);
   const base = domain.startsWith("http")?domain:`https://${domain}`;
-  const guesses = ["/collections/sale","/collections/markdown","/pages/promotion"].map(p=>new URL(p,base).toString());
-  const list = Array.from(new Set([...(await fromSitemap(base)), ...(await crawl(base)), ...guesses]));
+  const fromSitemaps = await fromSitemap(base);
+  const fromCrawl = await crawl(base);
+  const list = Array.from(new Set([...fromSitemaps, ...fromCrawl]));
   
-  console.log(`\n💾 Saving to data/sale_pages.json...`);
+  console.log(`\n💾 Saving ${list.length} product pages to data/sale_pages.json...`);
   await fs.mkdir("data", { recursive: true });
   await fs.writeFile("data/sale_pages.json", JSON.stringify(list, null, 2));
-  console.log(`\n✅ Done! Found ${list.length} sale pages total\n`);
+  console.log(`✅ Done!\n`);
 }
 
 
