@@ -2,7 +2,7 @@ name: build-deals
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # 6시간마다 실행
+    - cron: "0 13 * * *"   # 매일 UTC 13:00 = 미국 동부시간 오전 8시
   workflow_dispatch:         # 수동 실행 가능
 
 jobs:
@@ -28,11 +28,14 @@ jobs:
       - name: Install dependencies
         run: pnpm install
       
+      - name: Install Playwright browsers
+        run: pnpm exec playwright install chromium --with-deps
+      
       - name: Discover sale pages
         run: pnpm tsx scripts/discover.ts www.nike.com
       
-      - name: Extract product deals
-        run: pnpm tsx scripts/fetch-jsonld.ts
+      - name: Extract product deals (with browser automation)
+        run: pnpm tsx scripts/fetch-with-browser.ts 50
       
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5

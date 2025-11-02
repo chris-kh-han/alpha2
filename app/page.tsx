@@ -4,11 +4,17 @@ import { useEffect, useMemo, useState } from 'react';
 import DealCard from '@/components/DealCard';
 
 type Deal = {
-  brand: string;
+  id: string;
   title: string;
-  link: string;
-  tags?: string[];
-  lastUpdated?: string;
+  store: string;
+  store_url: string;
+  img?: string;
+  price_now: number;
+  price_was?: number | null;
+  currency?: string;
+  discount_pct?: number | null;
+  ends_at?: string | null;
+  category?: string[];
 };
 
 export default function Page() {
@@ -16,7 +22,7 @@ export default function Page() {
   const [deals, setDeals] = useState<Deal[]>([]);
 
   useEffect(() => {
-    fetch('/deals.json', { cache: 'no-store' })
+    fetch('/product_deals.json', { cache: 'no-store' })
       .then(r => r.json())
       .then(setDeals)
       .catch(() => setDeals([]));
@@ -25,7 +31,7 @@ export default function Page() {
   const filtered = useMemo(() => {
     const k = q.toLowerCase();
     return deals.filter(d =>
-      [d.brand, d.title, (d.tags || []).join(' ')].join(' ').toLowerCase().includes(k)
+      [d.store, d.title, (d.category || []).join(' ')].join(' ').toLowerCase().includes(k)
     );
   }, [deals, q]);
 

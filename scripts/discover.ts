@@ -30,7 +30,11 @@ async function fromSitemap(base:string) {
     try {
       const xml = await get(new URL(p, base).toString());
       const locs = Array.from(xml.matchAll(/<loc>(.*?)<\/loc>/g)).map(m=>m[1]);
-      for (const u of locs) if (KW.test(u)) out.push(u);
+      for (const u of locs) {
+        // /help/, /about/, /customer-service 같은 비상품 페이지 제외
+        if (u.includes('/help/') || u.includes('/about/') || u.includes('/customer-service/')) continue;
+        if (KW.test(u)) out.push(u);
+      }
     } catch {}
   }
   console.log(`  ✅ Found ${out.length} sale URLs from sitemaps`);
@@ -53,6 +57,10 @@ async function crawl(base:string, max=120) {
           const link=new URL(href, origin);
           if(link.origin!==origin) return;
           const s=link.toString();
+          
+          // /help/, /about/, /customer-service 같은 비상품 페이지 제외
+          if (s.includes('/help/') || s.includes('/about/') || s.includes('/customer-service/')) return;
+          
           const hay=[s,$(a).text(),$("title").text()].join(" ");
           
           // Nike 제품 상세 페이지 패턴: /t/product-name/SKU
