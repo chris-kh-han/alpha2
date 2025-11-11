@@ -156,19 +156,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/standard-issue-mens-dri-fit-basketball-pants-lF6lnX/CK6365-010",
-    "title": "Nike Standard Issue",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/standard-issue-mens-dri-fit-basketball-pants-lF6lnX/CK6365-010",
-    "img": "https://static.nike.com/a/images/t_default/d41dd0ac-bba8-4eb5-a144-e1a866a58389/M+NK+DF+STD+ISSUE+PANT.png",
-    "price_now": 67.97,
-    "price_was": 90,
-    "currency": "USD",
-    "discount_pct": 24,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/therma-mens-therma-fit-full-zip-fitness-top-vsR4Rm/DQ4830-071",
     "title": "Nike Therma",
     "store": "www.nike.com",
@@ -360,6 +347,19 @@
     "price_was": 65,
     "currency": "USD",
     "discount_pct": 29,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/sportswear-club-fleece-mens-pants-j3nqxx/BV2707-010",
+    "title": "Nike Sportswear Club Fleece",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/sportswear-club-fleece-mens-pants-j3nqxx/BV2707-010",
+    "img": "https://static.nike.com/a/images/t_default/kcq4939ay1uodlo5tqsz/M+NSW+CLUB+PANT+OH+BB.png",
+    "price_now": 36.97,
+    "price_was": 60,
+    "currency": "USD",
+    "discount_pct": 38,
     "ends_at": null,
     "category": []
   },
