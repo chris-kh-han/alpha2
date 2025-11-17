@@ -468,19 +468,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/air-jordan-1-low-se-mens-shoes-r4hJb1/IM6568-010",
-    "title": "Air Jordan 1 Low SE",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/air-jordan-1-low-se-mens-shoes-r4hJb1/IM6568-010",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8326e5fe-d8d5-422f-984f-2e591732d5af/AIR+JORDAN+1+LOW+SE.png",
-    "price_now": 130,
-    "price_was": null,
-    "currency": "KRW",
-    "discount_pct": null,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/calm-mens-slides-gjTA6gv7/FD4116-001",
     "title": "Nike Calm",
     "store": "www.nike.com",
@@ -559,19 +546,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/air-jordan-1-mid-womens-shoes-TB9sVQ/BQ6472-118",
-    "title": "Air Jordan 1 Mid",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/air-jordan-1-mid-womens-shoes-TB9sVQ/BQ6472-118",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/43d60bad-a5a3-4901-9035-e2b04eb90817/WMNS+AIR+JORDAN+1+MID.png",
-    "price_now": 110.97,
-    "price_was": 130,
-    "currency": "USD",
-    "discount_pct": 15,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/air-max-270-mens-shoes-KkLcGR/AH8050-005",
     "title": "Nike Air Max 270",
     "store": "www.nike.com",
@@ -624,6 +598,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/flex-control-4-mens-workout-shoes-14Z62l/CD0197-001",
+    "title": "Nike Flex Control 4",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/flex-control-4-mens-workout-shoes-14Z62l/CD0197-001",
+    "img": "https://static.nike.com/a/images/t_default/71e7d7f9-88b1-48ff-8ad7-a7b699cf869c/NIKE+FLEX+CONTROL+TR4.png",
+    "price_now": 52.97,
+    "price_was": 70,
+    "currency": "USD",
+    "discount_pct": 24,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/utility-elite-backpack-37l-Gxn5dL/FN4173-010",
     "title": "Nike Utility Elite",
     "store": "www.nike.com",
@@ -631,6 +618,19 @@
     "img": "https://static.nike.com/a/images/t_default/8bbea777-9419-47da-a8d8-1cbc6b733000/NK+UTILITY+ELITE+BKPK+-+2.0.png",
     "price_now": 102.97,
     "price_was": 120,
+    "currency": "USD",
+    "discount_pct": 14,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/everyday-plus-cushioned-training-no-show-socks-6-pairs-xGOLbiOE/SX6898-010",
+    "title": "Nike Everyday Plus Cushioned",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/everyday-plus-cushioned-training-no-show-socks-6-pairs-xGOLbiOE/SX6898-010",
+    "img": "https://static.nike.com/a/images/t_default/031971fd-95ea-4e4c-a4f3-0e704964655d/U+NK+ED+PLUS+CUSH+NS+6PR+132.png",
+    "price_now": 23.97,
+    "price_was": 28,
     "currency": "USD",
     "discount_pct": 14,
     "ends_at": null,
