@@ -26,11 +26,24 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/one-womens-high-waisted-7-8-leggings-with-pockets-bxJfIKLj/FN3241-441",
+    "id": "https://www.nike.com/t/free-metcon-6-womens-workout-shoes-yeO7KABq/FJ7126-101",
+    "title": "Nike Free Metcon 6",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/free-metcon-6-womens-workout-shoes-yeO7KABq/FJ7126-101",
+    "img": "https://static.nike.com/a/images/t_default/692cff1b-1c52-4799-9460-1876a2eb59e0/W+NIKE+FREE+METCON+6.png",
+    "price_now": 108.97,
+    "price_was": 125,
+    "currency": "USD",
+    "discount_pct": 13,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/one-womens-high-waisted-7-8-leggings-with-pockets-bxJfIKLj/FN3241-666",
     "title": "Nike One",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/one-womens-high-waisted-7-8-leggings-with-pockets-bxJfIKLj/FN3241-441",
-    "img": "https://static.nike.com/a/images/t_default/7f8c2d27-384b-412e-a338-e68cb37b2e88/W+NK+DF+ONE+HR+7%2F8+PKT+TGHT.png",
+    "store_url": "https://www.nike.com/t/one-womens-high-waisted-7-8-leggings-with-pockets-bxJfIKLj/FN3241-666",
+    "img": "https://static.nike.com/a/images/t_default/bc7e5905-bd02-4ec5-aff0-42066db4cd6e/W+NK+DF+ONE+HR+7%2F8+PKT+TGHT.png",
     "price_now": 55.97,
     "price_was": 60,
     "currency": "USD",
@@ -113,19 +126,6 @@
     "price_was": 50,
     "currency": "USD",
     "discount_pct": 12,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/jordan-brooklyn-fleece-big-kids-pants-fDUiI0OA/95F113-X0L",
-    "title": "Jordan Brooklyn Fleece",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/jordan-brooklyn-fleece-big-kids-pants-fDUiI0OA/95F113-X0L",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b4122bb4-2005-4d3a-9128-5169ce54e1eb/MJ+BRKLN+FLC+PANT.png",
-    "price_now": 39.97,
-    "price_was": 45,
-    "currency": "USD",
-    "discount_pct": 11,
     "ends_at": null,
     "category": []
   },
@@ -230,19 +230,6 @@
     "price_was": 60,
     "currency": "USD",
     "discount_pct": 32,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/free-metcon-6-womens-workout-shoes-yeO7KABq/FJ7126-101",
-    "title": "Nike Free Metcon 6",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/free-metcon-6-womens-workout-shoes-yeO7KABq/FJ7126-101",
-    "img": "https://static.nike.com/a/images/t_default/692cff1b-1c52-4799-9460-1876a2eb59e0/W+NIKE+FREE+METCON+6.png",
-    "price_now": 108.97,
-    "price_was": 125,
-    "currency": "USD",
-    "discount_pct": 13,
     "ends_at": null,
     "category": []
   },
@@ -624,19 +611,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/jordan-nola-womens-slides-cJKqWN/CZ8027-603",
-    "title": "Jordan NOLA",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/jordan-nola-womens-slides-cJKqWN/CZ8027-603",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/537f0ebe-d4e1-4652-b1e7-a6282c97a8fb/WMNS+JORDAN+NOLA+SLIDE.png",
-    "price_now": 42.97,
-    "price_was": 50,
-    "currency": "USD",
-    "discount_pct": 14,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/pacific-leather-se-womens-shoes-f877d1Or/IM7328-100",
     "title": "Nike Pacific Leather SE",
     "store": "www.nike.com",
@@ -646,6 +620,32 @@
     "price_was": 80,
     "currency": "USD",
     "discount_pct": 19,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/sportswear-phoenix-fleece-womens-oversized-full-zip-hoodie-jAeC6yy3/DQ5758-265",
+    "title": "Nike Sportswear Phoenix Fleece",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/sportswear-phoenix-fleece-womens-oversized-full-zip-hoodie-jAeC6yy3/DQ5758-265",
+    "img": "https://static.nike.com/a/images/t_default/633418d2-11c3-4b11-bcf3-c129cdc95e22/W+NSW+PHNX+FLC+FZ+OS+HOODIE.png",
+    "price_now": 74.97,
+    "price_was": 80,
+    "currency": "USD",
+    "discount_pct": 6,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/go-womens-high-waisted-7-8-leggings-with-pockets-9w5Tpz/HQ4319-010",
+    "title": "Nike Go",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/go-womens-high-waisted-7-8-leggings-with-pockets-9w5Tpz/HQ4319-010",
+    "img": "https://static.nike.com/a/images/t_default/c17d6f6c-d354-4f03-b6f6-1b848fcc49e8/W+NK+DF+GO+HR+7%2F8+TGHT+C25.png",
+    "price_now": 80.97,
+    "price_was": 120,
+    "currency": "USD",
+    "discount_pct": 33,
     "ends_at": null,
     "category": []
   }
