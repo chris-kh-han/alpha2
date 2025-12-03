@@ -26,6 +26,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/swoosh-medium-support-womens-padded-sports-bra-b9qXentD/DX6821-666",
+    "title": "Nike Swoosh Medium Support",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/swoosh-medium-support-womens-padded-sports-bra-b9qXentD/DX6821-666",
+    "img": "https://static.nike.com/a/images/t_default/e6216006-dc32-46b7-80bb-faa26fa6b726/W+NK+SWSH+MED+SPT+BRA.png",
+    "price_now": 37.97,
+    "price_was": 40,
+    "currency": "USD",
+    "discount_pct": 5,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/jordan-brooklyn-fleece-mens-pullover-hoodie-dGf5LT/FV7281-237",
     "title": "Jordan Brooklyn Fleece",
     "store": "www.nike.com",
@@ -78,15 +91,28 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/sportswear-all-day-play-big-kids-therma-fit-loose-fit-puffer-jacket-7l7HFS/HQ9374-200",
-    "title": "Nike Sportswear All Day Play",
+    "id": "https://www.nike.com/t/sportswear-club-fleece-big-kids-pullover-hoodie-EukX1sfX/FD3000-301",
+    "title": "Nike Sportswear Club Fleece",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/sportswear-all-day-play-big-kids-therma-fit-loose-fit-puffer-jacket-7l7HFS/HQ9374-200",
-    "img": "https://static.nike.com/a/images/t_default/3b88f406-5a80-4c19-976e-345b1fcfe727/K+NSW+TF+ADP+PUFFER+GX.png",
-    "price_now": 79.97,
-    "price_was": 110,
+    "store_url": "https://www.nike.com/t/sportswear-club-fleece-big-kids-pullover-hoodie-EukX1sfX/FD3000-301",
+    "img": "https://static.nike.com/a/images/t_default/e69122ba-ca00-4232-ab8c-94895b027fd0/K+NSW+CLUB+FLC+HDY+LBR.png",
+    "price_now": 30.97,
+    "price_was": 45,
     "currency": "USD",
-    "discount_pct": 27,
+    "discount_pct": 31,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/sportswear-club-fleece-big-kids-joggers-QjM4KGLz/FD3008-301",
+    "title": "Nike Sportswear Club Fleece",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/sportswear-club-fleece-big-kids-joggers-QjM4KGLz/FD3008-301",
+    "img": "https://static.nike.com/a/images/t_default/7c40fafa-ba75-4c59-99d0-f31797be2ee5/K+NSW+CLUB+FLC+JGGR+LBR.png",
+    "price_now": 30.97,
+    "price_was": 45,
+    "currency": "USD",
+    "discount_pct": 31,
     "ends_at": null,
     "category": []
   },
@@ -100,32 +126,6 @@
     "price_was": 50,
     "currency": "USD",
     "discount_pct": 12,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/jordan-brooklyn-fleece-big-kids-pants-fDUiI0OA/95F113-X0L",
-    "title": "Jordan Brooklyn Fleece",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/jordan-brooklyn-fleece-big-kids-pants-fDUiI0OA/95F113-X0L",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b4122bb4-2005-4d3a-9128-5169ce54e1eb/MJ+BRKLN+FLC+PANT.png",
-    "price_now": 39.97,
-    "price_was": 45,
-    "currency": "USD",
-    "discount_pct": 11,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/everyday-max-cushioned-training-crew-socks-3-pairs-PUrpRjGx/SX5547-100",
-    "title": "Nike Everyday Max Cushioned",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/everyday-max-cushioned-training-crew-socks-3-pairs-PUrpRjGx/SX5547-100",
-    "img": "https://static.nike.com/a/images/t_default/5364bd0f-e90b-4449-a22c-341f490ac2ce/U+NK+ED+MAX+CUSH+CREW+3PR+144.png",
-    "price_now": 19.97,
-    "price_was": 24,
-    "currency": "USD",
-    "discount_pct": 17,
     "ends_at": null,
     "category": []
   },
@@ -442,6 +442,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/everyday-plus-cushioned-training-crew-socks-6-pairs-xGOLbiOE/SX6897-100",
+    "title": "Nike Everyday Plus Cushioned",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/everyday-plus-cushioned-training-crew-socks-6-pairs-xGOLbiOE/SX6897-100",
+    "img": "https://static.nike.com/a/images/t_default/72c6228c-4597-4718-80c6-252c07246557/U+NK+ED+PLS+CSH+CRW+6PR+-+132.png",
+    "price_now": 22.97,
+    "price_was": 28,
+    "currency": "USD",
+    "discount_pct": 18,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/everyday-plus-cushioned-training-no-show-socks-6-pairs-xGOLbiOE/SX6898-100",
     "title": "Nike Everyday Plus Cushioned",
     "store": "www.nike.com",
@@ -533,19 +546,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/air-jordan-1-low-se-womens-shoes-jxMXgH/DV0426-301",
-    "title": "Air Jordan 1 Low SE",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/air-jordan-1-low-se-womens-shoes-jxMXgH/DV0426-301",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ba5a69c6-fd28-494b-9ad8-c7b2e8d78320/WMNS+AIR+JORDAN+1+LOW+SE.png",
-    "price_now": 120,
-    "price_was": null,
-    "currency": "KRW",
-    "discount_pct": null,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/varsity-elite-backpack-32l-ktBkrm/HM9965-017",
     "title": "Nike Varsity Elite",
     "store": "www.nike.com",
@@ -611,19 +611,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/club-mens-fleece-crew-RU1Il4yl/FN3886-435",
-    "title": "Nike Club",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/club-mens-fleece-crew-RU1Il4yl/FN3886-435",
-    "img": "https://static.nike.com/a/images/t_default/4398f6f5-d68e-402c-8f32-88269d42298a/M+NK+CLUB+BB+CREW.png",
-    "price_now": 48.97,
-    "price_was": 60,
-    "currency": "USD",
-    "discount_pct": 18,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/solo-swoosh-mens-fleece-pants-JKRBBm/DX1364-063",
     "title": "Nike Solo Swoosh",
     "store": "www.nike.com",
@@ -644,6 +631,19 @@
     "img": "https://static.nike.com/a/images/t_default/ba6997fe-43cc-470c-8812-87e8b942c207/NIKE+DUNK+LOW+RETRO.png",
     "price_now": 80.97,
     "price_was": 120,
+    "currency": "USD",
+    "discount_pct": 33,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/shox-r4-mens-shoes-0PISn0m1/HQ1988-200",
+    "title": "Nike Shox R4",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/shox-r4-mens-shoes-0PISn0m1/HQ1988-200",
+    "img": "https://static.nike.com/a/images/t_default/ecf0d380-8e6b-4efb-9a90-2c1d3ac9a0db/NIKE+SHOX+R4.png",
+    "price_now": 103.97,
+    "price_was": 155,
     "currency": "USD",
     "discount_pct": 33,
     "ends_at": null,
