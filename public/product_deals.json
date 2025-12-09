@@ -1,31 +1,5 @@
 [
   {
-    "id": "https://www.nike.com/t/primary-fleece-mens-dri-fit-uv-performance-joggers-RX4Mdm/FZ0975-619",
-    "title": "Nike Primary Fleece",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/primary-fleece-mens-dri-fit-uv-performance-joggers-RX4Mdm/FZ0975-619",
-    "img": "https://static.nike.com/a/images/t_default/02644740-85d4-4aa1-9f12-4a5888bc69fc/M+NK+DF+UV+PRIMARY+JOGGER+PANT.png",
-    "price_now": 64.97,
-    "price_was": 80,
-    "currency": "USD",
-    "discount_pct": 19,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/swoosh-medium-support-womens-padded-sports-bra-b9qXentD/DX6821-666",
-    "title": "Nike Swoosh Medium Support",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/swoosh-medium-support-womens-padded-sports-bra-b9qXentD/DX6821-666",
-    "img": "https://static.nike.com/a/images/t_default/e6216006-dc32-46b7-80bb-faa26fa6b726/W+NK+SWSH+MED+SPT+BRA.png",
-    "price_now": 37.97,
-    "price_was": 40,
-    "currency": "USD",
-    "discount_pct": 5,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/jordan-brooklyn-fleece-mens-pullover-hoodie-dGf5LT/FV7281-237",
     "title": "Jordan Brooklyn Fleece",
     "store": "www.nike.com",
@@ -122,10 +96,23 @@
     "store": "www.nike.com",
     "store_url": "https://www.nike.com/t/sportswear-phoenix-fleece-womens-oversized-1-4-zip-long-sweatshirt-VRHTd6/HJ0931-652",
     "img": "https://static.nike.com/a/images/t_default/8ed3da12-4c63-42e7-9df7-3ff6fac63a69/W+NSW+PHNX+FLC+OS+LONG+QZ.png",
-    "price_now": 45.97,
+    "price_now": 66.97,
     "price_was": 75,
     "currency": "USD",
-    "discount_pct": 39,
+    "discount_pct": 11,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/everyday-plus-cushioned-training-crew-socks-6-pairs-xGOLbiOE/SX6897-100",
+    "title": "Nike Everyday Plus Cushioned",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/everyday-plus-cushioned-training-crew-socks-6-pairs-xGOLbiOE/SX6897-100",
+    "img": "https://static.nike.com/a/images/t_default/72c6228c-4597-4718-80c6-252c07246557/U+NK+ED+PLS+CSH+CRW+6PR+-+132.png",
+    "price_now": 22.97,
+    "price_was": 28,
+    "currency": "USD",
+    "discount_pct": 18,
     "ends_at": null,
     "category": []
   },
