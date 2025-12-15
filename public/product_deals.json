@@ -26,19 +26,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/standard-issue-mens-therma-fit-brushed-open-hem-basketball-pants-cWiAcw7p/IM6333-619",
-    "title": "Nike Standard Issue",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/standard-issue-mens-therma-fit-brushed-open-hem-basketball-pants-cWiAcw7p/IM6333-619",
-    "img": "https://static.nike.com/a/images/t_default/57f7a31c-13df-4b36-a33d-9ba19b2f6399/M+NK+TF+SI+BRSH+OPEN+HEM+PANT.png",
-    "price_now": 74.97,
-    "price_was": 80,
-    "currency": "USD",
-    "discount_pct": 6,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/air-max-muse-womens-shoes-KhZbA2U4/FV1920-100",
     "title": "Nike Air Max Muse",
     "store": "www.nike.com",
@@ -48,6 +35,19 @@
     "price_was": 170,
     "currency": "USD",
     "discount_pct": 9,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/sportswear-phoenix-fleece-womens-oversized-crew-neck-sweatshirt-Gk8Sra3v/FZ4270-390",
+    "title": "Nike Sportswear Phoenix Fleece",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/sportswear-phoenix-fleece-womens-oversized-crew-neck-sweatshirt-Gk8Sra3v/FZ4270-390",
+    "img": "https://static.nike.com/a/images/t_default/551af015-bc43-4159-8252-28615c73101f/W+NSW+PHNX+FLC+OS+LONG+CREW.png",
+    "price_now": 56.97,
+    "price_was": 70,
+    "currency": "USD",
+    "discount_pct": 19,
     "ends_at": null,
     "category": []
   },
@@ -113,19 +113,6 @@
     "price_was": 65,
     "currency": "USD",
     "discount_pct": 14,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/v5-rnr-mens-shoes-WHxi2GRN/HJ5228-400",
-    "title": "Nike V5 RNR",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/v5-rnr-mens-shoes-WHxi2GRN/HJ5228-400",
-    "img": "https://static.nike.com/a/images/t_default/2b002b53-1844-4d29-b339-27023d3e25c5/NIKE+V5+RNR.png",
-    "price_now": 88.97,
-    "price_was": 95,
-    "currency": "USD",
-    "discount_pct": 6,
     "ends_at": null,
     "category": []
   },
@@ -312,19 +299,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/academy-mens-dri-fit-soccer-top-tdGFL1/HJ4239-010",
-    "title": "Nike Academy+",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/academy-mens-dri-fit-soccer-top-tdGFL1/HJ4239-010",
-    "img": "https://static.nike.com/a/images/t_default/82344ad4-543b-429c-9d5f-5049148f59a1/M+NK+DF+ACD%2B+TOP+SS+GX.png",
-    "price_now": 27.97,
-    "price_was": 40,
-    "currency": "USD",
-    "discount_pct": 30,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/sportswear-club-fleece-mens-pants-j3nqxx/BV2707-063",
     "title": "Nike Sportswear Club Fleece",
     "store": "www.nike.com",
@@ -377,19 +351,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/life-mens-fatigue-pants-t1m7rw/FV5533-297",
-    "title": "Nike Life",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/life-mens-fatigue-pants-t1m7rw/FV5533-297",
-    "img": "https://static.nike.com/a/images/t_default/c257144f-3e5f-4663-8dc2-80de93abe47b/M+NL+FATIGUE+PANT.png",
-    "price_now": 114.97,
-    "price_was": 130,
-    "currency": "USD",
-    "discount_pct": 12,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/air-max-ishod-mens-shoes-DwRtpQ/FB2393-004",
     "title": "Nike Air Max Ishod",
     "store": "www.nike.com",
@@ -438,6 +399,19 @@
     "price_was": 130,
     "currency": "USD",
     "discount_pct": 27,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/air-jordan-1-low-mens-shoes-0LXhbn/553558-147",
+    "title": "Air Jordan 1 Low",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/air-jordan-1-low-mens-shoes-0LXhbn/553558-147",
+    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e4f14af9-9b6d-4e7b-9f9b-029b97d7e6d0/AIR+JORDAN+1+LOW.png",
+    "price_now": 105.97,
+    "price_was": 120,
+    "currency": "USD",
+    "discount_pct": 12,
     "ends_at": null,
     "category": []
   },
