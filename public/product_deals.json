@@ -1,18 +1,5 @@
 [
   {
-    "id": "https://www.nike.com/t/air-max-plus-mens-shoes-x9G2xF/604133-136",
-    "title": "Nike Air Max Plus",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/air-max-plus-mens-shoes-x9G2xF/604133-136",
-    "img": "https://static.nike.com/a/images/t_default/532e647d-0847-40f8-9d05-e0f812f9c60a/AIR+MAX+PLUS.png",
-    "price_now": 176.97,
-    "price_was": 190,
-    "currency": "USD",
-    "discount_pct": 7,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/shox-tl-mens-shoes-QVMnuDoH/AV3595-302",
     "title": "Nike Shox TL",
     "store": "www.nike.com",
@@ -22,19 +9,6 @@
     "price_was": 180,
     "currency": "USD",
     "discount_pct": 7,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/tech-mens-fleece-oversized-hoodie-7F4xX5/HV6535-010",
-    "title": "Nike Tech",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/tech-mens-fleece-oversized-hoodie-7F4xX5/HV6535-010",
-    "img": "https://static.nike.com/a/images/t_default/bb64e11e-76b3-476d-a4c4-eb3adb36b929/M+NK+TCH+FLC+HOODIE.png",
-    "price_now": 130.97,
-    "price_was": 140,
-    "currency": "USD",
-    "discount_pct": 6,
     "ends_at": null,
     "category": []
   },
@@ -52,28 +26,15 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/sportswear-windrunner-womens-tailored-jacket-Wkbzin6Z/HV5143-010",
-    "title": "Nike Sportswear Windrunner",
+    "id": "https://www.nike.com/t/sportswear-womens-tailored-trouser-pants-aVhSTuvM/HV5141-110",
+    "title": "Nike Sportswear",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/sportswear-windrunner-womens-tailored-jacket-Wkbzin6Z/HV5143-010",
-    "img": "https://static.nike.com/a/images/t_default/358daed2-22f6-4ff1-9246-c244df7e2c2b/W+NSW+TAILORED+WR+JACKET.png",
-    "price_now": 158.97,
-    "price_was": 170,
+    "store_url": "https://www.nike.com/t/sportswear-womens-tailored-trouser-pants-aVhSTuvM/HV5141-110",
+    "img": "https://static.nike.com/a/images/t_default/71342c4b-309f-4446-af86-8c9fb2905472/W+NSW+TAILORED+TROUSER+PANT.png",
+    "price_now": 134.97,
+    "price_was": 145,
     "currency": "USD",
-    "discount_pct": 6,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/sportswear-phoenix-fleece-womens-cargo-sweatpants-wUEAkMLx/IM7488-010",
-    "title": "Nike Sportswear Phoenix Fleece",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/sportswear-phoenix-fleece-womens-cargo-sweatpants-wUEAkMLx/IM7488-010",
-    "img": "https://static.nike.com/a/images/t_default/1196fde9-8cb5-415b-9d42-69ad8519097e/W+NSW+PHNX+FLC+CARGO.png",
-    "price_now": 60.97,
-    "price_was": 75,
-    "currency": "USD",
-    "discount_pct": 19,
+    "discount_pct": 7,
     "ends_at": null,
     "category": []
   },
@@ -126,6 +87,19 @@
     "price_was": 40,
     "currency": "USD",
     "discount_pct": 28,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/swift-womens-dri-fit-uv-1-4-zip-running-top-bPejmcSx/HQ0499-499",
+    "title": "Nike Swift",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/swift-womens-dri-fit-uv-1-4-zip-running-top-bPejmcSx/HQ0499-499",
+    "img": "https://static.nike.com/a/images/t_default/665c2b17-6888-4c62-8dfe-c9532da118ea/W+NK+SWIFT+DF+UV+HZ+TOP.png",
+    "price_now": 59.97,
+    "price_was": 70,
+    "currency": "USD",
+    "discount_pct": 14,
     "ends_at": null,
     "category": []
   },
@@ -230,19 +204,6 @@
     "price_was": 55,
     "currency": "USD",
     "discount_pct": 29,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/air-jordan-1-mid-mens-shoes-X5pM09/DQ8426-102",
-    "title": "Air Jordan 1 Mid",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/air-jordan-1-mid-mens-shoes-X5pM09/DQ8426-102",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c6707a49-4a3f-4802-907a-0c80b9498471/AIR+JORDAN+1+MID.png",
-    "price_now": 114.97,
-    "price_was": 130,
-    "currency": "USD",
-    "discount_pct": 12,
     "ends_at": null,
     "category": []
   },
@@ -438,6 +399,32 @@
     "price_was": 120,
     "currency": "USD",
     "discount_pct": 12,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/jordan-brooklyn-fleece-mens-pullover-hoodie-dGf5LT/FV7281-133",
+    "title": "Jordan Brooklyn Fleece",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/jordan-brooklyn-fleece-mens-pullover-hoodie-dGf5LT/FV7281-133",
+    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3a332b98-77c3-4895-b91b-43c0ee45945b/M+J+BRK+FLC+PO.png",
+    "price_now": 56.97,
+    "price_was": 65,
+    "currency": "USD",
+    "discount_pct": 12,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/waffle-debut-womens-shoes-5Rl1KL/DH9523-102",
+    "title": "Nike Waffle Debut",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/waffle-debut-womens-shoes-5Rl1KL/DH9523-102",
+    "img": "https://static.nike.com/a/images/t_default/0d5b100a-1c53-462a-8d8e-20b023aed588/WMNS+NIKE+WAFFLE+DEBUT.png",
+    "price_now": 59.97,
+    "price_was": 75,
+    "currency": "USD",
+    "discount_pct": 20,
     "ends_at": null,
     "category": []
   },
