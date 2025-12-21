@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://www.nike.com/t/air-max-plus-mens-shoes-x9G2xF/604133-136",
+    "title": "Nike Air Max Plus",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/air-max-plus-mens-shoes-x9G2xF/604133-136",
+    "img": "https://static.nike.com/a/images/t_default/532e647d-0847-40f8-9d05-e0f812f9c60a/AIR+MAX+PLUS.png",
+    "price_now": 176.97,
+    "price_was": 190,
+    "currency": "USD",
+    "discount_pct": 7,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/shox-tl-mens-shoes-QVMnuDoH/AV3595-302",
     "title": "Nike Shox TL",
     "store": "www.nike.com",
@@ -9,6 +22,19 @@
     "price_was": 180,
     "currency": "USD",
     "discount_pct": 7,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/tech-mens-fleece-oversized-hoodie-7F4xX5/HV6535-010",
+    "title": "Nike Tech",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/tech-mens-fleece-oversized-hoodie-7F4xX5/HV6535-010",
+    "img": "https://static.nike.com/a/images/t_default/bb64e11e-76b3-476d-a4c4-eb3adb36b929/M+NK+TCH+FLC+HOODIE.png",
+    "price_now": 130.97,
+    "price_was": 140,
+    "currency": "USD",
+    "discount_pct": 6,
     "ends_at": null,
     "category": []
   },
@@ -230,19 +256,6 @@
     "price_was": 175,
     "currency": "USD",
     "discount_pct": 26,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/jordan-brooklyn-fleece-mens-graphic-pullover-hoodie-Tt7r3G/HV0544-010",
-    "title": "Jordan Brooklyn Fleece",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/jordan-brooklyn-fleece-mens-graphic-pullover-hoodie-Tt7r3G/HV0544-010",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6d869b7c-7909-4c47-8923-0d695e4301a4/M+J+BRK+GFX+PO+HD.png",
-    "price_now": 59.97,
-    "price_was": 75,
-    "currency": "USD",
-    "discount_pct": 20,
     "ends_at": null,
     "category": []
   },
