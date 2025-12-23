@@ -338,19 +338,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/c1ty-steel-shoes-w1HpcCgA/FZ3863-015",
-    "title": "Nike C1TY \"Steel\"",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/c1ty-steel-shoes-w1HpcCgA/FZ3863-015",
-    "img": "https://static.nike.com/a/images/t_default/d6f7ca77-139b-4b98-b609-4c863355b098/NIKE+C1TY.png",
-    "price_now": 82.97,
-    "price_was": 105,
-    "currency": "USD",
-    "discount_pct": 21,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/life-mens-wilderness-sweater-w2lpJM/HV0886-441",
     "title": "Nike Life",
     "store": "www.nike.com",
@@ -594,19 +581,6 @@
     "price_was": 80,
     "currency": "USD",
     "discount_pct": 35,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/p-6000-womens-shoes-SGxVgg/BV1021-014",
-    "title": "Nike P-6000",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/p-6000-womens-shoes-SGxVgg/BV1021-014",
-    "img": "https://static.nike.com/a/images/t_default/95bb832d-00f4-4416-ad7f-0934040c6bd8/W+NIKE+P-6000.png",
-    "price_now": 106.97,
-    "price_was": 115,
-    "currency": "USD",
-    "discount_pct": 7,
     "ends_at": null,
     "category": []
   },
