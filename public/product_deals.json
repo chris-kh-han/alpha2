@@ -156,6 +156,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/solo-swoosh-mens-fleece-pullover-hoodie-lcH40HPa/DX1355-072",
+    "title": "Nike Solo Swoosh",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/solo-swoosh-mens-fleece-pullover-hoodie-lcH40HPa/DX1355-072",
+    "img": "https://static.nike.com/a/images/t_default/47a39ec6-2705-4dea-9366-d227aa7f0f31/M+NK+SOLO+SWSH+FLC+PO+HOODIE.png",
+    "price_now": 79.97,
+    "price_was": 100,
+    "currency": "USD",
+    "discount_pct": 20,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/challenger-mens-dri-fit-woven-running-pants-hBS5x6/FQ4780-010",
     "title": "Nike Challenger",
     "store": "www.nike.com",
@@ -425,19 +438,6 @@
     "price_was": 65,
     "currency": "USD",
     "discount_pct": 34,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/jordan-brooklyn-fleece-mens-oversized-open-hem-pants-45Mmvg/IB7238-010",
-    "title": "Jordan Brooklyn Fleece",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/jordan-brooklyn-fleece-mens-oversized-open-hem-pants-45Mmvg/IB7238-010",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/451ce65d-92e3-4359-b026-b35eb7d9d53e/M+J+BRK+OVS+OH+PANT.png",
-    "price_now": 44.97,
-    "price_was": 70,
-    "currency": "USD",
-    "discount_pct": 36,
     "ends_at": null,
     "category": []
   },
