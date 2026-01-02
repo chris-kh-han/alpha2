@@ -169,19 +169,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/challenger-mens-dri-fit-woven-running-pants-hBS5x6/FQ4780-010",
-    "title": "Nike Challenger",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/challenger-mens-dri-fit-woven-running-pants-hBS5x6/FQ4780-010",
-    "img": "https://static.nike.com/a/images/t_default/2e3cc301-4bcb-43fe-9292-a33c2db6655a/M+NK+DF+CHALLENGR+WVN+PANT.png",
-    "price_now": 65.97,
-    "price_was": 75,
-    "currency": "USD",
-    "discount_pct": 12,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/air-max-90-mens-shoes-bAZ6AeHT/DM0029-116",
     "title": "Nike Air Max 90",
     "store": "www.nike.com",
@@ -438,6 +425,19 @@
     "price_was": 65,
     "currency": "USD",
     "discount_pct": 34,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/jordan-brooklyn-fleece-mens-oversized-open-hem-pants-45Mmvg/IB7238-010",
+    "title": "Jordan Brooklyn Fleece",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/jordan-brooklyn-fleece-mens-oversized-open-hem-pants-45Mmvg/IB7238-010",
+    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/451ce65d-92e3-4359-b026-b35eb7d9d53e/M+J+BRK+OVS+OH+PANT.png",
+    "price_now": 44.97,
+    "price_was": 70,
+    "currency": "USD",
+    "discount_pct": 36,
     "ends_at": null,
     "category": []
   },
