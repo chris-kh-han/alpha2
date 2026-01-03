@@ -156,19 +156,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/solo-swoosh-mens-fleece-pullover-hoodie-lcH40HPa/DX1355-072",
-    "title": "Nike Solo Swoosh",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/solo-swoosh-mens-fleece-pullover-hoodie-lcH40HPa/DX1355-072",
-    "img": "https://static.nike.com/a/images/t_default/47a39ec6-2705-4dea-9366-d227aa7f0f31/M+NK+SOLO+SWSH+FLC+PO+HOODIE.png",
-    "price_now": 79.97,
-    "price_was": 100,
-    "currency": "USD",
-    "discount_pct": 20,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/air-max-90-mens-shoes-bAZ6AeHT/DM0029-116",
     "title": "Nike Air Max 90",
     "store": "www.nike.com",
@@ -438,6 +425,19 @@
     "price_was": 70,
     "currency": "USD",
     "discount_pct": 36,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/free-run-2018-mens-road-running-shoes-4VTnGqeZ/942836-003",
+    "title": "Nike Free Run 2018",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/free-run-2018-mens-road-running-shoes-4VTnGqeZ/942836-003",
+    "img": "https://static.nike.com/a/images/t_default/iestvmt1gu1buywatjwt/NIKE+FREE+RN+2018.png",
+    "price_now": 66.97,
+    "price_was": 100,
+    "currency": "USD",
+    "discount_pct": 33,
     "ends_at": null,
     "category": []
   },
