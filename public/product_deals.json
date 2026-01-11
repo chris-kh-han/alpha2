@@ -559,19 +559,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/sportswear-womens-wide-leg-woven-pants-RaPebtHX/IH8508-410",
-    "title": "Nike Sportswear",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/sportswear-womens-wide-leg-woven-pants-RaPebtHX/IH8508-410",
-    "img": "https://static.nike.com/a/images/t_default/9c92f6ae-54e6-4d48-9a85-78ae424ef75a/W+NSW+WIDE+LEG+WVN+PANT.png",
-    "price_now": 62.97,
-    "price_was": 90,
-    "currency": "USD",
-    "discount_pct": 30,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/sportswear-swoosh-series-womens-oversized-down-vest-83S0Y3bV/IH3980-222",
     "title": "Nike Sportswear Swoosh Series",
     "store": "www.nike.com",
@@ -581,6 +568,19 @@
     "price_was": 225,
     "currency": "USD",
     "discount_pct": 25,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/sportswear-womens-wide-leg-woven-pants-RaPebtHX/IH8508-410",
+    "title": "Nike Sportswear",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/sportswear-womens-wide-leg-woven-pants-RaPebtHX/IH8508-410",
+    "img": "https://static.nike.com/a/images/t_default/9c92f6ae-54e6-4d48-9a85-78ae424ef75a/W+NSW+WIDE+LEG+WVN+PANT.png",
+    "price_now": 62.97,
+    "price_was": 90,
+    "currency": "USD",
+    "discount_pct": 30,
     "ends_at": null,
     "category": []
   },
@@ -624,6 +624,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/air-max-intrlk-lite-womens-shoes-WcVqzW/DX3705-001",
+    "title": "Nike Air Max INTRLK Lite",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/air-max-intrlk-lite-womens-shoes-WcVqzW/DX3705-001",
+    "img": "https://static.nike.com/a/images/t_default/34490c6e-0488-4eb3-ad65-28d3d3dbd866/W+NIKE+AIR+MAX+INTRLK+LITE.png",
+    "price_now": 63.97,
+    "price_was": 85,
+    "currency": "USD",
+    "discount_pct": 25,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/sportswear-windrunner-womens-shine-pants-30vj5b/HV2475-652",
     "title": "Nike Sportswear Windrunner",
     "store": "www.nike.com",
@@ -633,19 +646,6 @@
     "price_was": 95,
     "currency": "USD",
     "discount_pct": 30,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/pro-womens-3-shorts-R6Kgdb/AO9977-451",
-    "title": "Nike Pro",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/pro-womens-3-shorts-R6Kgdb/AO9977-451",
-    "img": "https://static.nike.com/a/images/t_default/445da013-76e5-40ff-b767-5684ed4b96a7/W+NP+SHRT+3IN.png",
-    "price_now": 22.97,
-    "price_was": 30,
-    "currency": "USD",
-    "discount_pct": 23,
     "ends_at": null,
     "category": []
   }
