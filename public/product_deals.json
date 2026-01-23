@@ -1,18 +1,5 @@
 [
   {
-    "id": "https://www.nike.com/t/acg-ultrafly-trail-trail-racing-shoes-3fRN62/HF5668-801",
-    "title": "Nike ACG Ultrafly Trail",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/acg-ultrafly-trail-trail-racing-shoes-3fRN62/HF5668-801",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d7402d3a-aabc-4d02-a4d8-8bdba0ba60a0/NIKE+ACG+ULTRAFLY+TRAIL.png",
-    "price_now": 260,
-    "price_was": null,
-    "currency": "KRW",
-    "discount_pct": null,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/p-6000-womens-shoes-SGxVgg/BV1021-014",
     "title": "Nike P-6000",
     "store": "www.nike.com",
@@ -646,6 +633,19 @@
     "price_was": 75,
     "currency": "USD",
     "discount_pct": 24,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/legend-big-kids-dri-fit-t-shirt-DSwzY1Kd/FZ5199-001",
+    "title": "Nike Legend",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/legend-big-kids-dri-fit-t-shirt-DSwzY1Kd/FZ5199-001",
+    "img": "https://static.nike.com/a/images/t_default/d6e3e77a-78fc-4569-94bd-0e3a1f0db133/K+NK+DF+LGD+TEE+SWOOSH+HBR.png",
+    "price_now": 20.97,
+    "price_was": 25,
+    "currency": "USD",
+    "discount_pct": 16,
     "ends_at": null,
     "category": []
   }
