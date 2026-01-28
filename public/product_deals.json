@@ -13,6 +13,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/alphafly-3-womens-road-racing-shoes-g53vjd0k/FD8315-400",
+    "title": "Nike Alphafly 3",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/alphafly-3-womens-road-racing-shoes-g53vjd0k/FD8315-400",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9365a9e0-0b0c-4ce7-8f6e-9fc3f17a13e5/W+AIR+ZOOM+ALPHAFLY+NEXT%25+3.png",
+    "price_now": 221.97,
+    "price_was": 295,
+    "currency": "USD",
+    "discount_pct": 25,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/p-6000-womens-shoes-SGxVgg/BV1021-014",
     "title": "Nike P-6000",
     "store": "www.nike.com",
@@ -78,6 +91,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/alphafly-3-mens-road-racing-shoes-pfiBM8Do/FD8311-400",
+    "title": "Nike Alphafly 3",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/alphafly-3-mens-road-racing-shoes-pfiBM8Do/FD8311-400",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/40d98ebc-1f93-4401-90bb-bc8ffbfb93d0/AIR+ZOOM+ALPHAFLY+NEXT%25+3.png",
+    "price_now": 221.97,
+    "price_was": 295,
+    "currency": "USD",
+    "discount_pct": 25,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/free-metcon-6-mens-workout-shoes-QFCf19/FJ7127-007",
     "title": "Nike Free Metcon 6",
     "store": "www.nike.com",
@@ -98,32 +124,6 @@
     "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3ebb9ae5-b2c4-40bf-b410-6bdc624ec78c/MJ+BROOKLYN+HOLIDAY+PANT.png",
     "price_now": 41.97,
     "price_was": 55,
-    "currency": "USD",
-    "discount_pct": 24,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/sportswear-club-fleece-big-kids-full-zip-hoodie-HXiYStSY/FD3004-323",
-    "title": "Nike Sportswear Club Fleece",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/sportswear-club-fleece-big-kids-full-zip-hoodie-HXiYStSY/FD3004-323",
-    "img": "https://static.nike.com/a/images/t_default/5892203e-7ead-4926-8da7-022579376230/K+NSW+CLUB+FLC+HD+FZ+LS+LBR.png",
-    "price_now": 37.97,
-    "price_was": 50,
-    "currency": "USD",
-    "discount_pct": 24,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/v2k-run-womens-shoes-with-reflective-accents-bVNxzR1U/FD0736-201",
-    "title": "Nike V2K Run",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/v2k-run-womens-shoes-with-reflective-accents-bVNxzR1U/FD0736-201",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5116e545-4d13-42b8-a396-ca05bee7c762/W+NIKE+V2K+RUN.png",
-    "price_now": 90.97,
-    "price_was": 120,
     "currency": "USD",
     "discount_pct": 24,
     "ends_at": null,
@@ -325,32 +325,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/sb-dunk-high-x-antihero-mens-shoes-k2ZXTlT9/HM5837-100",
-    "title": "Nike SB Dunk High x Antihero",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/sb-dunk-high-x-antihero-mens-shoes-k2ZXTlT9/HM5837-100",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3c293ddc-658f-441b-8c78-65d692a6aa1f/NIKE+SB+DUNK+HIGH+QS.png",
-    "price_now": 108.97,
-    "price_was": 145,
-    "currency": "USD",
-    "discount_pct": 25,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/court-vision-mid-next-nature-mens-shoes-Ks2QFk/FQ8740-480",
-    "title": "Nike Court Vision Mid Next Nature",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/court-vision-mid-next-nature-mens-shoes-Ks2QFk/FQ8740-480",
-    "img": "https://static.nike.com/a/images/t_default/f3b928b9-4d1d-4ee7-aa2c-7968b2036c45/NIKE+COURT+VISION+MID+NN.png",
-    "price_now": 67.97,
-    "price_was": 90,
-    "currency": "USD",
-    "discount_pct": 24,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/therma-mens-therma-fit-hooded-fitness-pullover-X9fVm2/DQ4834-010",
     "title": "Nike Therma",
     "store": "www.nike.com",
@@ -429,6 +403,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/flex-control-4-mens-workout-shoes-14Z62l/CD0197-100",
+    "title": "Nike Flex Control 4",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/flex-control-4-mens-workout-shoes-14Z62l/CD0197-100",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1d55c75b-d673-4fe5-bd3d-c6e7f8507808/NIKE+FLEX+CONTROL+TR4.png",
+    "price_now": 47.97,
+    "price_was": 70,
+    "currency": "USD",
+    "discount_pct": 31,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/zoom-vomero-5-womens-shoes-with-reflective-accents-81TPKW/FJ2028-104",
     "title": "Nike Zoom Vomero 5",
     "store": "www.nike.com",
@@ -464,6 +451,45 @@
     "price_was": 70,
     "currency": "USD",
     "discount_pct": 36,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/vaporfly-4-womens-road-racing-shoes-BLmihqNb/HF6412-101",
+    "title": "Nike Vaporfly 4",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/vaporfly-4-womens-road-racing-shoes-BLmihqNb/HF6412-101",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1fa2455b-ca69-44d5-84ad-34042535211f/W+ZOOMX+VAPORFLY+NEXT%25+4.png",
+    "price_now": 203.97,
+    "price_was": 270,
+    "currency": "USD",
+    "discount_pct": 24,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/dri-fit-one-womens-standard-fit-short-sleeve-cropped-top-c3jKNg/DD4954-100",
+    "title": "Nike Dri-FIT One",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/dri-fit-one-womens-standard-fit-short-sleeve-cropped-top-c3jKNg/DD4954-100",
+    "img": "https://static.nike.com/a/images/t_default/855c37fa-a88c-4274-82ed-745aba5cf8b7/W+NK+ONE+DF+SS+STD+CRP+TOP.png",
+    "price_now": 20.97,
+    "price_was": 40,
+    "currency": "USD",
+    "discount_pct": 48,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/go-womens-high-waisted-7-8-leggings-with-pockets-9w5Tpz/HQ4319-010",
+    "title": "Nike Go",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/go-womens-high-waisted-7-8-leggings-with-pockets-9w5Tpz/HQ4319-010",
+    "img": "https://static.nike.com/a/images/t_default/c17d6f6c-d354-4f03-b6f6-1b848fcc49e8/W+NK+DF+GO+HR+7%2F8+TGHT+C25.png",
+    "price_now": 60.97,
+    "price_was": 120,
+    "currency": "USD",
+    "discount_pct": 49,
     "ends_at": null,
     "category": []
   },
@@ -559,45 +585,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/air-max-intrlk-lite-womens-shoes-WcVqzW/DX3705-001",
-    "title": "Nike Air Max INTRLK Lite",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/air-max-intrlk-lite-womens-shoes-WcVqzW/DX3705-001",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/34490c6e-0488-4eb3-ad65-28d3d3dbd866/W+NIKE+AIR+MAX+INTRLK+LITE.png",
-    "price_now": 63.97,
-    "price_was": 85,
-    "currency": "USD",
-    "discount_pct": 25,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/dri-fit-one-womens-standard-fit-short-sleeve-cropped-top-c3jKNg/DD4954-100",
-    "title": "Nike Dri-FIT One",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/dri-fit-one-womens-standard-fit-short-sleeve-cropped-top-c3jKNg/DD4954-100",
-    "img": "https://static.nike.com/a/images/t_default/855c37fa-a88c-4274-82ed-745aba5cf8b7/W+NK+ONE+DF+SS+STD+CRP+TOP.png",
-    "price_now": 20.97,
-    "price_was": 40,
-    "currency": "USD",
-    "discount_pct": 48,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/go-womens-high-waisted-7-8-leggings-with-pockets-9w5Tpz/HQ4319-010",
-    "title": "Nike Go",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/go-womens-high-waisted-7-8-leggings-with-pockets-9w5Tpz/HQ4319-010",
-    "img": "https://static.nike.com/a/images/t_default/c17d6f6c-d354-4f03-b6f6-1b848fcc49e8/W+NK+DF+GO+HR+7%2F8+TGHT+C25.png",
-    "price_now": 60.97,
-    "price_was": 120,
-    "currency": "USD",
-    "discount_pct": 49,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/ld-1000-se-womens-shoes-MaCmAy4Y/IH2128-800",
     "title": "Nike LD-1000 SE",
     "store": "www.nike.com",
@@ -607,19 +594,6 @@
     "price_was": 110,
     "currency": "USD",
     "discount_pct": 39,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/dunk-high-next-nature-womens-shoes-FtKkZs/FV5960-101",
-    "title": "Nike Dunk High Next Nature",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/dunk-high-next-nature-womens-shoes-FtKkZs/FV5960-101",
-    "img": "https://static.nike.com/a/images/t_default/f77a396c-5420-4355-99af-8ecfcaef575c/W+NIKE+DUNK+HIGH+NN.png",
-    "price_now": 72.97,
-    "price_was": 135,
-    "currency": "USD",
-    "discount_pct": 46,
     "ends_at": null,
     "category": []
   },
@@ -646,6 +620,32 @@
     "price_was": 32,
     "currency": "USD",
     "discount_pct": 28,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/sportswear-phoenix-fleece-womens-high-waisted-wide-leg-pants-V4eXNKez/IH1011-036",
+    "title": "Nike Sportswear Phoenix Fleece",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/sportswear-phoenix-fleece-womens-high-waisted-wide-leg-pants-V4eXNKez/IH1011-036",
+    "img": "https://static.nike.com/a/images/t_default/db82dda7-aa22-4b18-944a-b2cc0eacd147/W+NSW+PHNX+FLC+HR+PANT+WIDE+2.png",
+    "price_now": 41.97,
+    "price_was": 70,
+    "currency": "USD",
+    "discount_pct": 40,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/v5-rnr-womens-shoes-with-reflective-accents-4Lts7n/IO7390-095",
+    "title": "Nike V5 RNR",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/v5-rnr-womens-shoes-with-reflective-accents-4Lts7n/IO7390-095",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/faa541b1-24da-40c7-98e9-f90b45b6e667/W+NIKE+V5+RNR.png",
+    "price_now": 71.97,
+    "price_was": 95,
+    "currency": "USD",
+    "discount_pct": 24,
     "ends_at": null,
     "category": []
   }
