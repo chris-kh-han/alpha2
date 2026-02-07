@@ -5,10 +5,10 @@
     "store": "www.nike.com",
     "store_url": "https://www.nike.com/t/free-metcon-6-mens-workout-shoes-QFCf19/FJ7127-107",
     "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cbceb02c-9136-42bd-bee7-1232a3efcb2d/NIKE+FREE+METCON+6.png",
-    "price_now": 100.97,
+    "price_now": 99.97,
     "price_was": 125,
     "currency": "USD",
-    "discount_pct": 19,
+    "discount_pct": 20,
     "ends_at": null,
     "category": []
   },
@@ -520,19 +520,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/go-womens-high-waisted-7-8-leggings-with-pockets-9w5Tpz/HQ4319-010",
-    "title": "Nike Go",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/go-womens-high-waisted-7-8-leggings-with-pockets-9w5Tpz/HQ4319-010",
-    "img": "https://static.nike.com/a/images/t_default/c17d6f6c-d354-4f03-b6f6-1b848fcc49e8/W+NK+DF+GO+HR+7%2F8+TGHT+C25.png",
-    "price_now": 60.97,
-    "price_was": 120,
-    "currency": "USD",
-    "discount_pct": 49,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/air-max-correlate-womens-shoes-29Vjp0/511417-136",
     "title": "Nike Air Max Correlate",
     "store": "www.nike.com",
@@ -542,6 +529,19 @@
     "price_was": 100,
     "currency": "USD",
     "discount_pct": 4,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/v5-rnr-womens-shoes-with-reflective-accents-4Lts7n/IO7390-095",
+    "title": "Nike V5 RNR",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/v5-rnr-womens-shoes-with-reflective-accents-4Lts7n/IO7390-095",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/faa541b1-24da-40c7-98e9-f90b45b6e667/W+NIKE+V5+RNR.png",
+    "price_now": 71.97,
+    "price_was": 95,
+    "currency": "USD",
+    "discount_pct": 24,
     "ends_at": null,
     "category": []
   },
@@ -633,6 +633,19 @@
     "price_was": null,
     "currency": "KRW",
     "discount_pct": null,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/pro-365-womens-5-shorts-JvPyvuye/CZ9831-010",
+    "title": "Nike Pro 365",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/pro-365-womens-5-shorts-JvPyvuye/CZ9831-010",
+    "img": "https://static.nike.com/a/images/t_default/aa093ad2-3f9d-4ea4-ab20-143d491ad043/W+NP+365+SHORT+5IN.png",
+    "price_now": 22.97,
+    "price_was": 32,
+    "currency": "USD",
+    "discount_pct": 28,
     "ends_at": null,
     "category": []
   }
