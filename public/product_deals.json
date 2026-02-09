@@ -117,11 +117,11 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/metcon-10-womens-workout-shoes-EGL2tQMt/HQ2620-603",
+    "id": "https://www.nike.com/t/metcon-10-womens-workout-shoes-EGL2tQMt/HQ2620-002",
     "title": "Nike Metcon 10",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/metcon-10-womens-workout-shoes-EGL2tQMt/HQ2620-603",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4cb3b9f2-70e7-4a33-b3f6-0f74403ba118/W+NIKE+METCON+10.png",
+    "store_url": "https://www.nike.com/t/metcon-10-womens-workout-shoes-EGL2tQMt/HQ2620-002",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/47e4c9b1-3737-485a-a509-ccf5d0b7985c/W+NIKE+METCON+10.png",
     "price_now": 108.97,
     "price_was": 155,
     "currency": "USD",
@@ -243,32 +243,6 @@
     "price_was": 105,
     "currency": "USD",
     "discount_pct": 19,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/jordan-flight-chicago-mens-realtree-jacket-lt2RaPTP/HV0649-222",
-    "title": "Jordan Flight Chicago",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/jordan-flight-chicago-mens-realtree-jacket-lt2RaPTP/HV0649-222",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/dfdd424d-6d0c-46d8-92dc-e64570f9133c/M+J+FLT+CHI+JKT+RLT.png",
-    "price_now": 149.97,
-    "price_was": 200,
-    "currency": "USD",
-    "discount_pct": 25,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/jordan-brooklyn-mens-realtree-t-shirt-GoItMtm0/HQ9020-133",
-    "title": "Jordan Brooklyn",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/jordan-brooklyn-mens-realtree-t-shirt-GoItMtm0/HQ9020-133",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5965dc49-ee88-4e52-b7bd-bbfa3a9c4a2b/M+J+BRK+RLT+AOP+SS+CREW.png",
-    "price_now": 33.97,
-    "price_was": 45,
-    "currency": "USD",
-    "discount_pct": 25,
     "ends_at": null,
     "category": []
   },
@@ -429,6 +403,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/react-sfb-carbon-mens-elite-outdoor-shoes-k7gKNd/CK9951-900",
+    "title": "Nike React SFB Carbon",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/react-sfb-carbon-mens-elite-outdoor-shoes-k7gKNd/CK9951-900",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8f2bd7e0-31fe-4a08-a4fe-ba0e448ae333/NIKE+REACT+SFB+CARBON.png",
+    "price_now": 180,
+    "price_was": null,
+    "currency": "KRW",
+    "discount_pct": null,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/dunk-low-lx-womens-shoes-ktc1HMbt/HM3698-006",
     "title": "Nike Dunk Low LX",
     "store": "www.nike.com",
@@ -516,6 +503,19 @@
     "price_was": 100,
     "currency": "USD",
     "discount_pct": 4,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/therma-fit-one-womens-loose-fleece-pants-xh3zV9/FB5578-699",
+    "title": "Nike Therma-FIT One",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/therma-fit-one-womens-loose-fleece-pants-xh3zV9/FB5578-699",
+    "img": "https://static.nike.com/a/images/t_default/1a7d0ebe-b4e2-4aad-b1f5-68dfe181f0f9/W+NK+ONE+TF+PANT+POLAR.png",
+    "price_now": 56.97,
+    "price_was": 80,
+    "currency": "USD",
+    "discount_pct": 29,
     "ends_at": null,
     "category": []
   },
@@ -620,19 +620,6 @@
     "price_was": null,
     "currency": "KRW",
     "discount_pct": null,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/pro-365-womens-5-shorts-JvPyvuye/CZ9831-010",
-    "title": "Nike Pro 365",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/pro-365-womens-5-shorts-JvPyvuye/CZ9831-010",
-    "img": "https://static.nike.com/a/images/t_default/aa093ad2-3f9d-4ea4-ab20-143d491ad043/W+NP+365+SHORT+5IN.png",
-    "price_now": 22.97,
-    "price_was": 32,
-    "currency": "USD",
-    "discount_pct": 28,
     "ends_at": null,
     "category": []
   }
