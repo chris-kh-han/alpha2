@@ -1,31 +1,5 @@
 [
   {
-    "id": "https://www.nike.com/t/free-metcon-6-mens-workout-shoes-QFCf19/FJ7127-107",
-    "title": "Nike Free Metcon 6",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/free-metcon-6-mens-workout-shoes-QFCf19/FJ7127-107",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cbceb02c-9136-42bd-bee7-1232a3efcb2d/NIKE+FREE+METCON+6.png",
-    "price_now": 99.97,
-    "price_was": 125,
-    "currency": "USD",
-    "discount_pct": 20,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/alphafly-3-womens-road-racing-shoes-g53vjd0k/FD8315-400",
-    "title": "Nike Alphafly 3",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/alphafly-3-womens-road-racing-shoes-g53vjd0k/FD8315-400",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9365a9e0-0b0c-4ce7-8f6e-9fc3f17a13e5/W+AIR+ZOOM+ALPHAFLY+NEXT%25+3.png",
-    "price_now": 221.97,
-    "price_was": 295,
-    "currency": "USD",
-    "discount_pct": 25,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/p-6000-womens-shoes-SGxVgg/BV1021-014",
     "title": "Nike P-6000",
     "store": "www.nike.com",
@@ -83,10 +57,10 @@
     "store": "www.nike.com",
     "store_url": "https://www.nike.com/t/sportswear-club-fleece-big-kids-pullover-hoodie-EukX1sfX/FD3000-323",
     "img": "https://static.nike.com/a/images/t_default/87f4b476-23d0-4d25-bded-72ac66ada499/K+NSW+CLUB+FLC+HDY+LBR.png",
-    "price_now": 33.97,
+    "price_now": 31.97,
     "price_was": 45,
     "currency": "USD",
-    "discount_pct": 25,
+    "discount_pct": 29,
     "ends_at": null,
     "category": []
   },
@@ -126,6 +100,32 @@
     "price_was": 102,
     "currency": "USD",
     "discount_pct": 25,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/flex-runner-4-baby-toddler-shoes-fhDFuBSM/IF2895-301",
+    "title": "Nike Flex Runner 4",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/flex-runner-4-baby-toddler-shoes-fhDFuBSM/IF2895-301",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e59d7961-f2c2-4a5a-9ef5-e018d1b2a6ba/FLEX+RUNNER+4+%28TD%29.png",
+    "price_now": 28.97,
+    "price_was": 40,
+    "currency": "USD",
+    "discount_pct": 28,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/metcon-10-mens-workout-shoes-WWGl2m1D/HJ1875-600",
+    "title": "Nike Metcon 10",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/metcon-10-mens-workout-shoes-WWGl2m1D/HJ1875-600",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d44d50c7-5976-4609-b566-0615b3cc51b6/M+NIKE+METCON+10.png",
+    "price_now": 108.97,
+    "price_was": 155,
+    "currency": "USD",
+    "discount_pct": 30,
     "ends_at": null,
     "category": []
   },
@@ -481,6 +481,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/alphafly-3-womens-road-racing-shoes-g53vjd0k/FD8315-400",
+    "title": "Nike Alphafly 3",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/alphafly-3-womens-road-racing-shoes-g53vjd0k/FD8315-400",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9365a9e0-0b0c-4ce7-8f6e-9fc3f17a13e5/W+AIR+ZOOM+ALPHAFLY+NEXT%25+3.png",
+    "price_now": 221.97,
+    "price_was": 295,
+    "currency": "USD",
+    "discount_pct": 25,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/vaporfly-4-womens-road-racing-shoes-BLmihqNb/HF6412-101",
     "title": "Nike Vaporfly 4",
     "store": "www.nike.com",
@@ -629,19 +642,6 @@
     "store": "www.nike.com",
     "store_url": "https://www.nike.com/t/flex-train-womens-workout-shoes-71ccQGWF/HV9981-101",
     "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/65bddadb-7174-4c08-bf71-5d76a2f64e67/W+NIKE+FLEX+TRAIN.png",
-    "price_now": 80,
-    "price_was": null,
-    "currency": "KRW",
-    "discount_pct": null,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/pacific-leather-se-womens-shoes-LTviIZ1V/IM7328-100",
-    "title": "Nike Pacific Leather SE",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/pacific-leather-se-womens-shoes-LTviIZ1V/IM7328-100",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/24286542-2928-495e-ab0c-d80f884a901b/W+NIKE+PACIFIC+LTR+SE.png",
     "price_now": 80,
     "price_was": null,
     "currency": "KRW",
