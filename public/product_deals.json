@@ -117,15 +117,15 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/flex-runner-4-baby-toddler-shoes-fhDFuBSM/IF2895-501",
+    "id": "https://www.nike.com/t/flex-runner-4-little-kids-shoes-fhDFuBSM/IF2894-602",
     "title": "Nike Flex Runner 4",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/flex-runner-4-baby-toddler-shoes-fhDFuBSM/IF2895-501",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e2f8b358-a651-4160-8ce9-d6a88609d6b1/FLEX+RUNNER+4+%28TD%29.png",
-    "price_now": 28.97,
-    "price_was": 40,
+    "store_url": "https://www.nike.com/t/flex-runner-4-little-kids-shoes-fhDFuBSM/IF2894-602",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8b429b48-217a-4744-8029-5e1ffadb3ac0/FLEX+RUNNER+4+%28PS%29.png",
+    "price_now": 27.97,
+    "price_was": 45,
     "currency": "USD",
-    "discount_pct": 28,
+    "discount_pct": 38,
     "ends_at": null,
     "category": []
   },
@@ -611,6 +611,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/air-max-moto-2k-womens-shoes-xfKLxDbe/IM9570-200",
+    "title": "Nike Air Max Moto 2K",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/air-max-moto-2k-womens-shoes-xfKLxDbe/IM9570-200",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/abcb76bd-6f15-49cc-bb05-607e56638f97/W+NIKE+AIR+MAX+MOTO+2K.png",
+    "price_now": 80.97,
+    "price_was": 145,
+    "currency": "USD",
+    "discount_pct": 44,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/air-max-fire-womens-shoes-UQL7JtBy/IO4512-601",
     "title": "Nike Air Max Fire",
     "store": "www.nike.com",
@@ -620,19 +633,6 @@
     "price_was": 105,
     "currency": "USD",
     "discount_pct": 35,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/free-metcon-6-womens-workout-shoes-yeO7KABq/FJ7126-110",
-    "title": "Nike Free Metcon 6",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/free-metcon-6-womens-workout-shoes-yeO7KABq/FJ7126-110",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/29227428-33c8-4961-a72f-5a13cc9ed1a8/W+NIKE+FREE+METCON+6.png",
-    "price_now": 99.97,
-    "price_was": 125,
-    "currency": "USD",
-    "discount_pct": 20,
     "ends_at": null,
     "category": []
   },
