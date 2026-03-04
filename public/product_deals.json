@@ -273,19 +273,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/sportswear-club-mens-oversized-striped-polo-UKgfWTuE/IF0736-100",
-    "title": "Nike Sportswear Club",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/sportswear-club-mens-oversized-striped-polo-UKgfWTuE/IF0736-100",
-    "img": "https://static.nike.com/a/images/t_default/703c875b-dda9-4993-aac4-69cb577e824b/M+NK+CLUB+OS+STRIPE+POLO.png",
-    "price_now": 70,
-    "price_was": null,
-    "currency": "KRW",
-    "discount_pct": null,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/solo-swoosh-mens-fleece-open-hem-pants-QcwR4QtU/IO0675-063",
     "title": "Nike Solo Swoosh",
     "store": "www.nike.com",
@@ -308,6 +295,19 @@
     "price_was": null,
     "currency": "KRW",
     "discount_pct": null,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/ava-rover-shoes-with-reflective-accents-Ow09rOwc/IM9327-200",
+    "title": "Nike Ava Rover",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/ava-rover-shoes-with-reflective-accents-Ow09rOwc/IM9327-200",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3e25f81e-ddc0-4f2e-9fc4-7ba94df725f4/NIKE+AVA+ROVER.png",
+    "price_now": 108.97,
+    "price_was": 145,
+    "currency": "USD",
+    "discount_pct": 25,
     "ends_at": null,
     "category": []
   },
@@ -468,19 +468,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/air-jordan-4-rm-womens-shoes-jgRtbx/FQ7940-010",
-    "title": "Air Jordan 4 RM",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/air-jordan-4-rm-womens-shoes-jgRtbx/FQ7940-010",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/37aeae89-2bcf-4f64-9711-113221c89b56/WMNS+AIR+JORDAN+4+RM.png",
-    "price_now": 113.97,
-    "price_was": 155,
-    "currency": "USD",
-    "discount_pct": 26,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/gamma-force-womens-shoes-4TR9Xf/DX9176-100",
     "title": "Nike Gamma Force",
     "store": "www.nike.com",
@@ -598,10 +585,10 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/brasilia-95-training-duffel-bag-medium-60l-m2FlMm/DH7710-657",
+    "id": "https://www.nike.com/t/brasilia-95-training-duffel-bag-medium-60l-Xe2alAEP/DH7710-657",
     "title": "Nike Brasilia 9.5",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/brasilia-95-training-duffel-bag-medium-60l-m2FlMm/DH7710-657",
+    "store_url": "https://www.nike.com/t/brasilia-95-training-duffel-bag-medium-60l-Xe2alAEP/DH7710-657",
     "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/78b98a6e-224a-41da-b46c-358d18af2945/NK+BRSLA+M+DUFF+-+9.5+%2860L%29.png",
     "price_now": 38.97,
     "price_was": 47,
@@ -611,15 +598,28 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/sportswear-phoenix-fleece-womens-oversized-cropped-henley-hoodie-omUjyCtk/IF0258-460",
-    "title": "Nike Sportswear Phoenix Fleece",
+    "id": "https://www.nike.com/t/sportswear-club-fleece-womens-pullover-hoodie-acsco82h/DQ5793-272",
+    "title": "Nike Sportswear Club Fleece",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/sportswear-phoenix-fleece-womens-oversized-cropped-henley-hoodie-omUjyCtk/IF0258-460",
-    "img": "https://static.nike.com/a/images/t_default/63c0e08e-fcc0-4964-8fbd-4bd5d3e8b8bf/W+NSW+PHNX+FLC+OS+CRP+HNLY+HDY.png",
-    "price_now": 65.97,
-    "price_was": 80,
+    "store_url": "https://www.nike.com/t/sportswear-club-fleece-womens-pullover-hoodie-acsco82h/DQ5793-272",
+    "img": "https://static.nike.com/a/images/t_default/d88733df-8c60-4ccc-87ce-c93cf3e8af2a/W+NSW+CLUB+FLC+STD+PO+HDY.png",
+    "price_now": 44.97,
+    "price_was": 65,
     "currency": "USD",
-    "discount_pct": 18,
+    "discount_pct": 31,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/universa-womens-medium-support-padded-sports-bra-tank-nXVClD/IF0950-441",
+    "title": "Nike Universa",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/universa-womens-medium-support-padded-sports-bra-tank-nXVClD/IF0950-441",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/939e9739-da5a-4136-ad46-4476605ac331/W+NK+DF+UNVRSA+MS+BRA+TANK.png",
+    "price_now": 51.97,
+    "price_was": 75,
+    "currency": "USD",
+    "discount_pct": 31,
     "ends_at": null,
     "category": []
   },
