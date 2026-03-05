@@ -364,19 +364,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/air-force-1-07-next-nature-womens-shoes-fvxZ0g/DC9486-114",
-    "title": "Nike Air Force 1 '07 Next Nature",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/air-force-1-07-next-nature-womens-shoes-fvxZ0g/DC9486-114",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c5dcf4df-cedb-451e-87af-22a89e505c4a/W+AIR+FORCE+1+%2707+NEXT+NATURE.png",
-    "price_now": 78.97,
-    "price_was": 115,
-    "currency": "USD",
-    "discount_pct": 31,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/air-max-90-womens-shoes-2ZsM2w/DH8010-004",
     "title": "Nike Air Max 90",
     "store": "www.nike.com",
@@ -585,19 +572,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/brasilia-95-training-duffel-bag-medium-60l-Xe2alAEP/DH7710-657",
-    "title": "Nike Brasilia 9.5",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/brasilia-95-training-duffel-bag-medium-60l-Xe2alAEP/DH7710-657",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/78b98a6e-224a-41da-b46c-358d18af2945/NK+BRSLA+M+DUFF+-+9.5+%2860L%29.png",
-    "price_now": 38.97,
-    "price_was": 47,
-    "currency": "USD",
-    "discount_pct": 17,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/sportswear-club-fleece-womens-pullover-hoodie-acsco82h/DQ5793-272",
     "title": "Nike Sportswear Club Fleece",
     "store": "www.nike.com",
@@ -607,6 +581,19 @@
     "price_was": 65,
     "currency": "USD",
     "discount_pct": 31,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/calm-womens-sandals-G69svRDw/FJ6043-002",
+    "title": "Nike Calm",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/calm-womens-sandals-G69svRDw/FJ6043-002",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/53cc10fe-c57b-4c86-81ce-830f315b657f/W+NIKE+CALM+SANDAL.png",
+    "price_now": 55.97,
+    "price_was": 80,
+    "currency": "USD",
+    "discount_pct": 30,
     "ends_at": null,
     "category": []
   },
@@ -624,28 +611,28 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/vomero-5-big-kids-shoes-with-reflective-accents-SKhO5HIO/HF6998-108",
-    "title": "Nike Vomero 5",
+    "id": "https://www.nike.com/t/legend-big-kids-dri-fit-t-shirt-DSwzY1Kd/FZ5199-001",
+    "title": "Nike Legend",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/vomero-5-big-kids-shoes-with-reflective-accents-SKhO5HIO/HF6998-108",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/13017dfe-e355-423f-b25c-2399d66b81c0/VOMERO+5+%28GS%29.png",
-    "price_now": 76.97,
-    "price_was": 112,
+    "store_url": "https://www.nike.com/t/legend-big-kids-dri-fit-t-shirt-DSwzY1Kd/FZ5199-001",
+    "img": "https://static.nike.com/a/images/t_default/d6e3e77a-78fc-4569-94bd-0e3a1f0db133/K+NK+DF+LGD+TEE+SWOOSH+HBR.png",
+    "price_now": 20.97,
+    "price_was": 25,
     "currency": "USD",
-    "discount_pct": 31,
+    "discount_pct": 16,
     "ends_at": null,
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/dunk-low-big-kids-shoes-C6spohtb/FB9109-302",
-    "title": "Nike Dunk Low",
+    "id": "https://www.nike.com/t/sportswear-club-fleece-big-kids-joggers-QjM4KGLz/FD3008-063",
+    "title": "Nike Sportswear Club Fleece",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/dunk-low-big-kids-shoes-C6spohtb/FB9109-302",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/570a2caf-ef4e-456a-af28-fd6941e2e68a/NIKE+DUNK+LOW+%28GS%29.png",
-    "price_now": 62.97,
-    "price_was": 90,
+    "store_url": "https://www.nike.com/t/sportswear-club-fleece-big-kids-joggers-QjM4KGLz/FD3008-063",
+    "img": "https://static.nike.com/a/images/t_default/8437047f-d76a-4b5a-9df9-452590852097/K+NSW+CLUB+FLC+JGGR+LBR.png",
+    "price_now": 32.97,
+    "price_was": 45,
     "currency": "USD",
-    "discount_pct": 30,
+    "discount_pct": 27,
     "ends_at": null,
     "category": []
   }
