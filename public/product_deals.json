@@ -585,19 +585,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/calm-womens-sandals-G69svRDw/FJ6043-002",
-    "title": "Nike Calm",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/calm-womens-sandals-G69svRDw/FJ6043-002",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/53cc10fe-c57b-4c86-81ce-830f315b657f/W+NIKE+CALM+SANDAL.png",
-    "price_now": 55.97,
-    "price_was": 80,
-    "currency": "USD",
-    "discount_pct": 30,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/air-jordan-1-low-method-of-make-womens-shoes-xwLRuBB5/HQ2186-100",
     "title": "Air Jordan 1 Low Method of Make",
     "store": "www.nike.com",
@@ -607,6 +594,19 @@
     "price_was": 140,
     "currency": "USD",
     "discount_pct": 29,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/calm-womens-sandals-G69svRDw/FJ6043-002",
+    "title": "Nike Calm",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/calm-womens-sandals-G69svRDw/FJ6043-002",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/53cc10fe-c57b-4c86-81ce-830f315b657f/W+NIKE+CALM+SANDAL.png",
+    "price_now": 55.97,
+    "price_was": 80,
+    "currency": "USD",
+    "discount_pct": 30,
     "ends_at": null,
     "category": []
   },
