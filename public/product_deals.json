@@ -221,6 +221,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/air-force-1-07-realtree-mens-shoes-slhnOew1/IH1221-001",
+    "title": "Air Force 1 '07 RealTree",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/air-force-1-07-realtree-mens-shoes-slhnOew1/IH1221-001",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a362b9a7-a934-49c3-8638-7864dc7a738c/AIR+FORCE+1+%2707.png",
+    "price_now": 87.97,
+    "price_was": 125,
+    "currency": "USD",
+    "discount_pct": 30,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/swoosh-mens-dri-fit-french-terry-pullover-fitness-hoodie-pTL5bX/FV9919-010",
     "title": "Nike Swoosh",
     "store": "www.nike.com",
@@ -247,15 +260,28 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/air-force-1-07-realtree-mens-shoes-slhnOew1/IH1221-001",
-    "title": "Air Force 1 '07 RealTree",
+    "id": "https://www.nike.com/t/shox-nz-mens-shoe-px1ly2/378341-059",
+    "title": "Nike Shox NZ",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/air-force-1-07-realtree-mens-shoes-slhnOew1/IH1221-001",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a362b9a7-a934-49c3-8638-7864dc7a738c/AIR+FORCE+1+%2707.png",
-    "price_now": 87.97,
-    "price_was": 125,
+    "store_url": "https://www.nike.com/t/shox-nz-mens-shoe-px1ly2/378341-059",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/17d6a315-378d-4fcd-86b3-1f9a63b8145a/NIKE+SHOX+NZ.png",
+    "price_now": 101.97,
+    "price_was": 135,
     "currency": "USD",
-    "discount_pct": 30,
+    "discount_pct": 24,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/pegasus-trail-5-mens-trail-running-shoes-0ZrZ4D/DV3864-600",
+    "title": "Nike Pegasus Trail 5",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/pegasus-trail-5-mens-trail-running-shoes-0ZrZ4D/DV3864-600",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b55e654c-8a50-4e84-99a2-55dea6f68f98/NIKE+REACTX+PEGASUS+TRAIL+5.png",
+    "price_now": 105.97,
+    "price_was": 155,
+    "currency": "USD",
+    "discount_pct": 32,
     "ends_at": null,
     "category": []
   },
@@ -282,32 +308,6 @@
     "price_was": 50,
     "currency": "USD",
     "discount_pct": 28,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/solo-swoosh-mens-fleece-open-hem-pants-QcwR4QtU/IO0675-063",
-    "title": "Nike Solo Swoosh",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/solo-swoosh-mens-fleece-open-hem-pants-QcwR4QtU/IO0675-063",
-    "img": "https://static.nike.com/a/images/t_default/182d4fcc-e955-444a-8724-4d0e04efe5b0/M+NL+SOLO+SWSH+BB+OH+PANT+GFX.png",
-    "price_now": 105,
-    "price_was": null,
-    "currency": "KRW",
-    "discount_pct": null,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/air-mens-track-pants-2KhUfSVL/IF1306-072",
-    "title": "Nike Air",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/air-mens-track-pants-2KhUfSVL/IF1306-072",
-    "img": "https://static.nike.com/a/images/t_default/84e9e8e9-0970-43e1-a0ce-e0ef9bf0755e/M+NK+AIR+PK+TRK+PANT.png",
-    "price_now": 105,
-    "price_was": null,
-    "currency": "KRW",
-    "discount_pct": null,
     "ends_at": null,
     "category": []
   },
@@ -637,15 +637,15 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/dunk-low-big-kids-shoes-C6spohtb/FB9109-302",
-    "title": "Nike Dunk Low",
+    "id": "https://www.nike.com/t/legend-big-kids-dri-fit-t-shirt-DSwzY1Kd/FZ5199-001",
+    "title": "Nike Legend",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/dunk-low-big-kids-shoes-C6spohtb/FB9109-302",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/570a2caf-ef4e-456a-af28-fd6941e2e68a/NIKE+DUNK+LOW+%28GS%29.png",
-    "price_now": 62.97,
-    "price_was": 90,
+    "store_url": "https://www.nike.com/t/legend-big-kids-dri-fit-t-shirt-DSwzY1Kd/FZ5199-001",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6e3e77a-78fc-4569-94bd-0e3a1f0db133/K+NK+DF+LGD+TEE+SWOOSH+HBR.png",
+    "price_now": 20.97,
+    "price_was": 25,
     "currency": "USD",
-    "discount_pct": 30,
+    "discount_pct": 16,
     "ends_at": null,
     "category": []
   }
