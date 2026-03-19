@@ -182,19 +182,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/killshot-2-leather-mens-shoes-72M7D1/432997-128",
-    "title": "Nike Killshot 2 Leather",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/killshot-2-leather-mens-shoes-72M7D1/432997-128",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/90fb28a6-8634-4dc3-88d1-9a7866e5ef17/KILLSHOT+2+LEATHER.png",
-    "price_now": 69.97,
-    "price_was": 100,
-    "currency": "USD",
-    "discount_pct": 30,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/tech-mens-woven-jacket-AgGbz2ab/HM7151-010",
     "title": "Nike Tech",
     "store": "www.nike.com",
@@ -308,6 +295,19 @@
     "price_was": 65,
     "currency": "USD",
     "discount_pct": 26,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/sportswear-mens-woven-flow-shorts-VFft3H/AR2382-010",
+    "title": "Nike Sportswear",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/sportswear-mens-woven-flow-shorts-VFft3H/AR2382-010",
+    "img": "https://static.nike.com/a/images/t_default/zlcposwhoyftg3gylr8r/M+NSW+SPE+WVN+LND+SHORT+FLOW.png",
+    "price_now": 35.97,
+    "price_was": 50,
+    "currency": "USD",
+    "discount_pct": 28,
     "ends_at": null,
     "category": []
   },
@@ -455,13 +455,13 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/air-jordan-4-rm-womens-shoes-jgRtbx/FQ7940-010",
-    "title": "Air Jordan 4 RM",
+    "id": "https://www.nike.com/t/calm-womens-sandals-G69svRDw/FJ6043-002",
+    "title": "Nike Calm",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/air-jordan-4-rm-womens-shoes-jgRtbx/FQ7940-010",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/37aeae89-2bcf-4f64-9711-113221c89b56/WMNS+AIR+JORDAN+4+RM.png",
-    "price_now": 108.97,
-    "price_was": 155,
+    "store_url": "https://www.nike.com/t/calm-womens-sandals-G69svRDw/FJ6043-002",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/53cc10fe-c57b-4c86-81ce-830f315b657f/W+NIKE+CALM+SANDAL.png",
+    "price_now": 55.97,
+    "price_was": 80,
     "currency": "USD",
     "discount_pct": 30,
     "ends_at": null,
@@ -507,6 +507,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/air-max-bolt-womens-shoes-WSLhlr/CU4152-101",
+    "title": "Nike Air Max Bolt",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/air-max-bolt-womens-shoes-WSLhlr/CU4152-101",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9318f517-d572-42c6-83ba-c1a1173171c4/WMNS+NIKE+AIR+MAX+BOLT.png",
+    "price_now": 89.97,
+    "price_was": 95,
+    "currency": "USD",
+    "discount_pct": 5,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/icon-classic-womens-sandals-c4bCfN/DH0224-001",
     "title": "Nike Icon Classic",
     "store": "www.nike.com",
@@ -546,19 +559,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/air-max-bolt-womens-shoes-WSLhlr/CU4152-101",
-    "title": "Nike Air Max Bolt",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/air-max-bolt-womens-shoes-WSLhlr/CU4152-101",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9318f517-d572-42c6-83ba-c1a1173171c4/WMNS+NIKE+AIR+MAX+BOLT.png",
-    "price_now": 89.97,
-    "price_was": 95,
-    "currency": "USD",
-    "discount_pct": 5,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/air-force-1-07-next-nature-womens-shoes-fvxZ0g/DC9486-114",
     "title": "Nike Air Force 1 '07 Next Nature",
     "store": "www.nike.com",
@@ -568,6 +568,19 @@
     "price_was": 115,
     "currency": "USD",
     "discount_pct": 31,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/air-jordan-4-rm-womens-shoes-jgRtbx/FQ7940-010",
+    "title": "Air Jordan 4 RM",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/air-jordan-4-rm-womens-shoes-jgRtbx/FQ7940-010",
+    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/37aeae89-2bcf-4f64-9711-113221c89b56/WMNS+AIR+JORDAN+4+RM.png",
+    "price_now": 108.97,
+    "price_was": 155,
+    "currency": "USD",
+    "discount_pct": 30,
     "ends_at": null,
     "category": []
   },
@@ -594,19 +607,6 @@
     "price_was": 70,
     "currency": "USD",
     "discount_pct": 30,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/pro-sculpt-womens-dri-fit-high-waisted-5-biker-shorts-2q0PJR/HV2366-010",
-    "title": "Nike Pro Sculpt",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/pro-sculpt-womens-dri-fit-high-waisted-5-biker-shorts-2q0PJR/HV2366-010",
-    "img": "https://static.nike.com/a/images/t_default/d1484b24-e70c-4196-be61-becf4ee8c8ba/W+NP+DF+SCULPT+HR+5IN+SRT+GG.png",
-    "price_now": 30.97,
-    "price_was": 42,
-    "currency": "USD",
-    "discount_pct": 26,
     "ends_at": null,
     "category": []
   },
