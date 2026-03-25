@@ -1,18 +1,5 @@
 [
   {
-    "id": "https://www.nike.com/t/pegasus-trail-5-gore-tex-mens-waterproof-trail-running-shoes-Tqyf11TS/FQ0908-001",
-    "title": "Nike Pegasus Trail 5 GORE-TEX",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/pegasus-trail-5-gore-tex-mens-waterproof-trail-running-shoes-Tqyf11TS/FQ0908-001",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/daf0e3a9-bfaf-41c7-acd0-d28bbaf7316f/NIKE+PEGASUS+TRAIL+5+GTX.png",
-    "price_now": 144.97,
-    "price_was": 180,
-    "currency": "USD",
-    "discount_pct": 19,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/vomero-18-mens-road-running-shoes-NzWnvcC8/HM6803-301",
     "title": "Nike Vomero 18",
     "store": "www.nike.com",
@@ -260,19 +247,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/sportswear-mens-woven-flow-shorts-VFft3H/AR2382-010",
-    "title": "Nike Sportswear",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/sportswear-mens-woven-flow-shorts-VFft3H/AR2382-010",
-    "img": "https://static.nike.com/a/images/t_default/zlcposwhoyftg3gylr8r/M+NSW+SPE+WVN+LND+SHORT+FLOW.png",
-    "price_now": 35.97,
-    "price_was": 50,
-    "currency": "USD",
-    "discount_pct": 28,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/solo-swoosh-mens-fleece-open-hem-pants-QcwR4QtU/IO0675-063",
     "title": "Nike Solo Swoosh",
     "store": "www.nike.com",
@@ -308,6 +282,19 @@
     "price_was": 145,
     "currency": "USD",
     "discount_pct": 19,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/ava-rover-shoes-with-reflective-accents-Ow09rOwc/IM9327-200",
+    "title": "Nike Ava Rover",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/ava-rover-shoes-with-reflective-accents-Ow09rOwc/IM9327-200",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3e25f81e-ddc0-4f2e-9fc4-7ba94df725f4/NIKE+AVA+ROVER.png",
+    "price_now": 108.97,
+    "price_was": 145,
+    "currency": "USD",
+    "discount_pct": 25,
     "ends_at": null,
     "category": []
   },
@@ -533,15 +520,41 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/jordan-trunner-lx-womens-shoes-MP8Jpc0r/HQ2164-300",
-    "title": "Jordan Trunner LX",
+    "id": "https://www.nike.com/t/air-max-270-womens-shoes-Pgb94t/AH6789-125",
+    "title": "Nike Air Max 270",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/jordan-trunner-lx-womens-shoes-MP8Jpc0r/HQ2164-300",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/58a0036e-ee8b-49bf-94c9-05b07b80f0a2/WMNS+JORDAN+TRUNNER+LX.png",
-    "price_now": 94.97,
-    "price_was": 135,
+    "store_url": "https://www.nike.com/t/air-max-270-womens-shoes-Pgb94t/AH6789-125",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/795cafdf-43a9-4037-afd2-de63609eae69/W+AIR+MAX+270.png",
+    "price_now": 119.97,
+    "price_was": 170,
+    "currency": "USD",
+    "discount_pct": 29,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/one-womens-therma-fit-oversized-1-2-zip-fleece-top-NMWKkJ/FV7955-104",
+    "title": "Nike One",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/one-womens-therma-fit-oversized-1-2-zip-fleece-top-NMWKkJ/FV7955-104",
+    "img": "https://static.nike.com/a/images/t_default/7e0d6012-f0f4-48bc-8367-01ede43c28ab/W+NK+ONE+TF+HZ+TOP+POLAR.png",
+    "price_now": 55.97,
+    "price_was": 80,
     "currency": "USD",
     "discount_pct": 30,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/everyday-plus-cushioned-training-crew-socks-6-pairs-xGOLbiOE/SX6897-904",
+    "title": "Nike Everyday Plus Cushioned",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/everyday-plus-cushioned-training-crew-socks-6-pairs-xGOLbiOE/SX6897-904",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/35c348b9-8a7b-4ef3-8772-4bed7f7ef6ae/U+NK+ED+PLS+CSH+CRW+6PR+-+132.png",
+    "price_now": 22.97,
+    "price_was": 28,
+    "currency": "USD",
+    "discount_pct": 18,
     "ends_at": null,
     "category": []
   },
@@ -559,6 +572,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/heritage-backpack-25l-JKmRND/DC4244-006",
+    "title": "Nike Heritage",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/heritage-backpack-25l-JKmRND/DC4244-006",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/0b0ac0ff-ab7e-4706-a488-9814976d39a9/NK+HERITAGE+BKPK.png",
+    "price_now": 30.97,
+    "price_was": 37,
+    "currency": "USD",
+    "discount_pct": 16,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/pro-sculpt-womens-dri-fit-high-waisted-5-biker-shorts-2q0PJR/HV2366-010",
     "title": "Nike Pro Sculpt",
     "store": "www.nike.com",
@@ -566,45 +592,6 @@
     "img": "https://static.nike.com/a/images/t_default/d1484b24-e70c-4196-be61-becf4ee8c8ba/W+NP+DF+SCULPT+HR+5IN+SRT+GG.png",
     "price_now": 30.97,
     "price_was": 42,
-    "currency": "USD",
-    "discount_pct": 26,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/air-jordan-1-low-method-of-make-womens-shoes-xwLRuBB5/HQ2186-100",
-    "title": "Air Jordan 1 Low Method of Make",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/air-jordan-1-low-method-of-make-womens-shoes-xwLRuBB5/HQ2186-100",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9c8ddffa-af33-4ee6-b722-0ddfd5c82bed/WMNS+AIR+JORDAN+1+MM+LOW+V3.png",
-    "price_now": 112.97,
-    "price_was": 140,
-    "currency": "USD",
-    "discount_pct": 19,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/pro-womens-light-support-non-padded-sports-bra-jh3Wkq/IF3973-666",
-    "title": "Nike Pro",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/pro-womens-light-support-non-padded-sports-bra-jh3Wkq/IF3973-666",
-    "img": "https://static.nike.com/a/images/t_default/16478f61-9eda-4b5f-8b35-bb80f074c59f/W+NP+LS+BRA+TT+GRX.png",
-    "price_now": 29.97,
-    "price_was": 42,
-    "currency": "USD",
-    "discount_pct": 29,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/pro-sculpt-womens-high-waisted-7-8-leggings-bLKFMg/HV2350-010",
-    "title": "Nike Pro Sculpt",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/pro-sculpt-womens-high-waisted-7-8-leggings-bLKFMg/HV2350-010",
-    "img": "https://static.nike.com/a/images/t_default/28b02604-1e7e-42ea-8a43-83c3501c4e88/W+NP+DF+SCULPT+HR+7%2F8+TGT+GG.png",
-    "price_now": 47.97,
-    "price_was": 65,
     "currency": "USD",
     "discount_pct": 26,
     "ends_at": null,
