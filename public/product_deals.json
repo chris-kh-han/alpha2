@@ -65,19 +65,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/shox-r4-mens-shoes-0PISn0m1/IF4849-500",
-    "title": "Nike Shox R4",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/shox-r4-mens-shoes-0PISn0m1/IF4849-500",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/23060ea3-e2e0-4f68-99e7-d29bb56ef2d8/NIKE+SHOX+R4.png",
-    "price_now": 122.97,
-    "price_was": 155,
-    "currency": "USD",
-    "discount_pct": 21,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/swoosh-mens-dri-fit-french-terry-pullover-fitness-hoodie-pTL5bX/FV9919-010",
     "title": "Nike Swoosh",
     "store": "www.nike.com",
@@ -124,19 +111,6 @@
     "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/00f5b09b-1a84-4cb7-a597-76f4eaf39ff7/FLEX+EXPERIENCE+RN+12+WIDE.png",
     "price_now": 58.97,
     "price_was": 80,
-    "currency": "USD",
-    "discount_pct": 26,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/therma-mens-therma-fit-hooded-fitness-pullover-X9fVm2/DQ4834-010",
-    "title": "Nike Therma",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/therma-mens-therma-fit-hooded-fitness-pullover-X9fVm2/DQ4834-010",
-    "img": "https://static.nike.com/a/images/t_default/b6c0543a-2e48-42f6-8e9c-f9e38a908810/M+NK+TF+HD+PO.png",
-    "price_now": 47.97,
-    "price_was": 65,
     "currency": "USD",
     "discount_pct": 26,
     "ends_at": null,
@@ -355,7 +329,7 @@
     "title": "Nike One",
     "store": "www.nike.com",
     "store_url": "https://www.nike.com/t/one-womens-dri-fit-high-waisted-fold-over-pants-C6TD6f/FV7848-010",
-    "img": "https://static.nike.com/a/images/t_default/3a85f13f-4075-45c8-bec7-ad125a90252b/W+NK+DF+ONE+HR+FLDOVR+PANT.png",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d9cbcb9e-81f7-4ebd-a980-b3cce5f458dc/W+NK+DF+ONE+HR+FLDOVR+PANT.png",
     "price_now": 50.97,
     "price_was": 70,
     "currency": "USD",
