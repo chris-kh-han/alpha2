@@ -70,10 +70,10 @@
     "store": "www.nike.com",
     "store_url": "https://www.nike.com/t/shox-r4-mens-shoes-0PISn0m1/IF4849-500",
     "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/23060ea3-e2e0-4f68-99e7-d29bb56ef2d8/NIKE+SHOX+R4.png",
-    "price_now": 122.97,
+    "price_now": 108.97,
     "price_was": 155,
     "currency": "USD",
-    "discount_pct": 21,
+    "discount_pct": 30,
     "ends_at": null,
     "category": []
   },
@@ -87,19 +87,6 @@
     "price_was": 75,
     "currency": "USD",
     "discount_pct": 31,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/primary-fleece-mens-dri-fit-uv-performance-joggers-RX4Mdm/FZ0975-010",
-    "title": "Nike Primary Fleece",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/primary-fleece-mens-dri-fit-uv-performance-joggers-RX4Mdm/FZ0975-010",
-    "img": "https://static.nike.com/a/images/t_default/6ae876cc-bbca-4078-bf22-fb6e61d1be71/M+NK+DF+UV+PRIMARY+JOGGER+PANT.png",
-    "price_now": 55.97,
-    "price_was": 80,
-    "currency": "USD",
-    "discount_pct": 30,
     "ends_at": null,
     "category": []
   },
@@ -139,32 +126,6 @@
     "price_was": 65,
     "currency": "USD",
     "discount_pct": 26,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/dri-fit-academy-mens-dri-fit-soccer-pants-llQzWh/DV9740-010",
-    "title": "Nike Dri-FIT Academy",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/dri-fit-academy-mens-dri-fit-soccer-pants-llQzWh/DV9740-010",
-    "img": "https://static.nike.com/a/images/t_default/e5235b37-5a92-4a00-a3c4-aebfea859ca3/M+NK+DF+ACD23+PANT+KPZ+BR.png",
-    "price_now": 42.97,
-    "price_was": 55,
-    "currency": "USD",
-    "discount_pct": 22,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/air-max-moto-2k-mens-shoes-sHpe9Gv4/IO9279-002",
-    "title": "Nike Air Max Moto 2K",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/air-max-moto-2k-mens-shoes-sHpe9Gv4/IO9279-002",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/670059bb-e0ae-4855-b937-99f71509237b/NIKE+AIR+MAX+MOTO+2K.png",
-    "price_now": 93.97,
-    "price_was": 135,
-    "currency": "USD",
-    "discount_pct": 30,
     "ends_at": null,
     "category": []
   },
@@ -299,32 +260,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/jordan-brooklyn-mens-woven-realtree-pants-rjqAzlIO/HV0642-222",
-    "title": "Jordan Brooklyn",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/jordan-brooklyn-mens-woven-realtree-pants-rjqAzlIO/HV0642-222",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/89d9109a-311d-4e31-824f-635a2ff69d9c/M+J+BRK+WVN+PANT+RLT.png",
-    "price_now": 69.97,
-    "price_was": 100,
-    "currency": "USD",
-    "discount_pct": 30,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/motiva-se-womens-walking-shoes-ZE3w6TU5/HV2023-001",
-    "title": "Nike Motiva SE",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/motiva-se-womens-walking-shoes-ZE3w6TU5/HV2023-001",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b09b4e40-8848-4db8-bfd2-59c87ca3d314/WMNS+NIKE+MOTIVA+SE.png",
-    "price_now": 83.97,
-    "price_was": 115,
-    "currency": "USD",
-    "discount_pct": 27,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/shox-tl-womens-shoes-xOveO18J/HV2520-001",
     "title": "Nike Shox TL",
     "store": "www.nike.com",
@@ -334,19 +269,6 @@
     "price_was": 190,
     "currency": "USD",
     "discount_pct": 31,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/dri-fit-one-womens-standard-fit-short-sleeve-cropped-top-c3jKNg/DD4954-100",
-    "title": "Nike Dri-FIT One",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/dri-fit-one-womens-standard-fit-short-sleeve-cropped-top-c3jKNg/DD4954-100",
-    "img": "https://static.nike.com/a/images/t_default/855c37fa-a88c-4274-82ed-745aba5cf8b7/W+NK+ONE+DF+SS+STD+CRP+TOP.png",
-    "price_now": 28.97,
-    "price_was": 40,
-    "currency": "USD",
-    "discount_pct": 28,
     "ends_at": null,
     "category": []
   },
@@ -572,6 +494,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/sportswear-womens-oversized-short-sleeve-t-shirt-DbQDJR0B/IQ1260-803",
+    "title": "Nike Sportswear",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/sportswear-womens-oversized-short-sleeve-t-shirt-DbQDJR0B/IQ1260-803",
+    "img": "https://static.nike.com/a/images/t_default/64bb689e-8ed1-4a98-adc7-ac64e51f02d3/W+NSW+SS+CREW+TEE+BF+AMDAY.png",
+    "price_now": 29.97,
+    "price_was": 37,
+    "currency": "USD",
+    "discount_pct": 19,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/locker-iridescent-swim-bag-DGhCNr/NESSA209-958",
     "title": "Nike Locker",
     "store": "www.nike.com",
@@ -581,19 +516,6 @@
     "price_was": 48,
     "currency": "USD",
     "discount_pct": 38,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/pro-womens-3-shorts-R6Kgdb/AO9977-451",
-    "title": "Nike Pro",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/pro-womens-3-shorts-R6Kgdb/AO9977-451",
-    "img": "https://static.nike.com/a/images/t_default/445da013-76e5-40ff-b767-5684ed4b96a7/W+NP+SHRT+3IN.png",
-    "price_now": 21.97,
-    "price_was": 30,
-    "currency": "USD",
-    "discount_pct": 27,
     "ends_at": null,
     "category": []
   },
