@@ -91,6 +91,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/primary-fleece-mens-dri-fit-uv-performance-joggers-RX4Mdm/FZ0975-010",
+    "title": "Nike Primary Fleece",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/primary-fleece-mens-dri-fit-uv-performance-joggers-RX4Mdm/FZ0975-010",
+    "img": "https://static.nike.com/a/images/t_default/6ae876cc-bbca-4078-bf22-fb6e61d1be71/M+NK+DF+UV+PRIMARY+JOGGER+PANT.png",
+    "price_now": 55.97,
+    "price_was": 80,
+    "currency": "USD",
+    "discount_pct": 30,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/air-max-excee-mens-shoes-vl97pm/FZ5486-006",
     "title": "Nike Air Max Excee",
     "store": "www.nike.com",
@@ -126,6 +139,32 @@
     "price_was": 65,
     "currency": "USD",
     "discount_pct": 26,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/dri-fit-academy-mens-dri-fit-soccer-pants-llQzWh/DV9740-010",
+    "title": "Nike Dri-FIT Academy",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/dri-fit-academy-mens-dri-fit-soccer-pants-llQzWh/DV9740-010",
+    "img": "https://static.nike.com/a/images/t_default/e5235b37-5a92-4a00-a3c4-aebfea859ca3/M+NK+DF+ACD23+PANT+KPZ+BR.png",
+    "price_now": 42.97,
+    "price_was": 55,
+    "currency": "USD",
+    "discount_pct": 22,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/air-max-moto-2k-mens-shoes-sHpe9Gv4/IO9279-002",
+    "title": "Nike Air Max Moto 2K",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/air-max-moto-2k-mens-shoes-sHpe9Gv4/IO9279-002",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/670059bb-e0ae-4855-b937-99f71509237b/NIKE+AIR+MAX+MOTO+2K.png",
+    "price_now": 81.97,
+    "price_was": 135,
+    "currency": "USD",
+    "discount_pct": 39,
     "ends_at": null,
     "category": []
   },
@@ -239,10 +278,10 @@
     "store": "www.nike.com",
     "store_url": "https://www.nike.com/t/jordan-flight-court-mens-shoes-TjdGi9FN/HF3255-112",
     "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/df24f115-e623-4397-a71f-5111a4b218cc/JORDAN+FLIGHT+COURT.png",
-    "price_now": 76.97,
+    "price_now": 73.97,
     "price_was": 105,
     "currency": "USD",
-    "discount_pct": 27,
+    "discount_pct": 30,
     "ends_at": null,
     "category": []
   },
@@ -260,6 +299,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/jordan-brooklyn-mens-woven-realtree-pants-rjqAzlIO/HV0642-222",
+    "title": "Jordan Brooklyn",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/jordan-brooklyn-mens-woven-realtree-pants-rjqAzlIO/HV0642-222",
+    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/89d9109a-311d-4e31-824f-635a2ff69d9c/M+J+BRK+WVN+PANT+RLT.png",
+    "price_now": 69.97,
+    "price_was": 100,
+    "currency": "USD",
+    "discount_pct": 30,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/shox-tl-womens-shoes-xOveO18J/HV2520-001",
     "title": "Nike Shox TL",
     "store": "www.nike.com",
@@ -269,19 +321,6 @@
     "price_was": 190,
     "currency": "USD",
     "discount_pct": 31,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/one-womens-dri-fit-high-waisted-fold-over-pants-C6TD6f/FV7848-010",
-    "title": "Nike One",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/one-womens-dri-fit-high-waisted-fold-over-pants-C6TD6f/FV7848-010",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d9cbcb9e-81f7-4ebd-a980-b3cce5f458dc/W+NK+DF+ONE+HR+FLDOVR+PANT.png",
-    "price_now": 50.97,
-    "price_was": 70,
-    "currency": "USD",
-    "discount_pct": 27,
     "ends_at": null,
     "category": []
   },
@@ -299,6 +338,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/one-womens-dri-fit-high-waisted-fold-over-pants-C6TD6f/FV7848-010",
+    "title": "Nike One",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/one-womens-dri-fit-high-waisted-fold-over-pants-C6TD6f/FV7848-010",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d9cbcb9e-81f7-4ebd-a980-b3cce5f458dc/W+NK+DF+ONE+HR+FLDOVR+PANT.png",
+    "price_now": 50.97,
+    "price_was": 70,
+    "currency": "USD",
+    "discount_pct": 27,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/air-max-bolt-womens-shoes-WSLhlr/CU4152-101",
     "title": "Nike Air Max Bolt",
     "store": "www.nike.com",
@@ -308,6 +360,19 @@
     "price_was": 95,
     "currency": "USD",
     "discount_pct": 4,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/cortez-leather-womens-shoes-07HlDB/HQ1841-002",
+    "title": "Nike Cortez Leather",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/cortez-leather-womens-shoes-07HlDB/HQ1841-002",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b05a104b-2851-4f4e-9170-4ad224ecc462/W+NIKE+CORTEZ+LT.png",
+    "price_now": 100.97,
+    "price_was": 125,
+    "currency": "USD",
+    "discount_pct": 19,
     "ends_at": null,
     "category": []
   },
@@ -442,19 +507,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/air-max-muse-womens-shoes-KhZbA2U4/II6282-500",
-    "title": "Nike Air Max Muse",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/air-max-muse-womens-shoes-KhZbA2U4/II6282-500",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ed79cd84-145e-4338-86bd-4e15e12c135e/WMNS+NIKE+AIR+MAX+MUSE.png",
-    "price_now": 102.97,
-    "price_was": 170,
-    "currency": "USD",
-    "discount_pct": 39,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/air-max-nuaxis-se-womens-shoes-PW4Ntd/IB4341-100",
     "title": "Nike Air Max Nuaxis SE",
     "store": "www.nike.com",
@@ -494,41 +546,28 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/sportswear-womens-oversized-short-sleeve-t-shirt-DbQDJR0B/IQ1260-803",
-    "title": "Nike Sportswear",
+    "id": "https://www.nike.com/t/shox-tl-womens-shoes-cPoGA7y3/HM9612-010",
+    "title": "Nike Shox TL",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/sportswear-womens-oversized-short-sleeve-t-shirt-DbQDJR0B/IQ1260-803",
-    "img": "https://static.nike.com/a/images/t_default/64bb689e-8ed1-4a98-adc7-ac64e51f02d3/W+NSW+SS+CREW+TEE+BF+AMDAY.png",
-    "price_now": 29.97,
-    "price_was": 37,
+    "store_url": "https://www.nike.com/t/shox-tl-womens-shoes-cPoGA7y3/HM9612-010",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c141f460-aa8f-4667-bf36-d95ac1d873ca/W+NIKE+SHOX+TL.png",
+    "price_now": 152.97,
+    "price_was": 190,
     "currency": "USD",
     "discount_pct": 19,
     "ends_at": null,
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/locker-iridescent-swim-bag-DGhCNr/NESSA209-958",
-    "title": "Nike Locker",
+    "id": "https://www.nike.com/t/pro-womens-therma-fit-fleece-hoodie-3z2PCS/HV3600-634",
+    "title": "Nike Pro",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/locker-iridescent-swim-bag-DGhCNr/NESSA209-958",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cwwuddjfedg0mzkgufnj/LOCKER+BAG.png",
-    "price_now": 29.97,
-    "price_was": 48,
+    "store_url": "https://www.nike.com/t/pro-womens-therma-fit-fleece-hoodie-3z2PCS/HV3600-634",
+    "img": "https://static.nike.com/a/images/t_default/5008d86a-f9e1-4403-994b-569f64f6643d/W+NP+TF+FLC+HOODIE+GG+GRX.png",
+    "price_now": 62.97,
+    "price_was": 90,
     "currency": "USD",
-    "discount_pct": 38,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/jordan-brooklyn-fleece-womens-pants-idrNghoB/IO1077-422",
-    "title": "Jordan Brooklyn Fleece",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/jordan-brooklyn-fleece-womens-pants-idrNghoB/IO1077-422",
-    "img": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/85d0750f-66ed-4d0a-83b2-10b7541ce458/W+J+BRK+FLC+OH+PANT+JD.png",
-    "price_now": 56.97,
-    "price_was": 70,
-    "currency": "USD",
-    "discount_pct": 19,
+    "discount_pct": 30,
     "ends_at": null,
     "category": []
   },
@@ -555,19 +594,6 @@
     "price_was": 55,
     "currency": "USD",
     "discount_pct": 31,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/sportswear-club-fleece-big-kids-pullover-hoodie-EukX1sfX/FD3000-323",
-    "title": "Nike Sportswear Club Fleece",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/sportswear-club-fleece-big-kids-pullover-hoodie-EukX1sfX/FD3000-323",
-    "img": "https://static.nike.com/a/images/t_default/87f4b476-23d0-4d25-bded-72ac66ada499/K+NSW+CLUB+FLC+HDY+LBR.png",
-    "price_now": 29.97,
-    "price_was": 45,
-    "currency": "USD",
-    "discount_pct": 33,
     "ends_at": null,
     "category": []
   }
