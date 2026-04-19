@@ -1,9 +1,9 @@
 [
   {
-    "id": "https://www.nike.com/t/nike-pegasus-trail-5-gore-tex-Tqyf11TS/FQ0908-001",
+    "id": "https://www.nike.com/t/pegasus-trail-5-gore-tex-mens-waterproof-trail-running-shoes-Tqyf11TS/FQ0908-001",
     "title": "Nike Pegasus Trail 5 GORE-TEX",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/nike-pegasus-trail-5-gore-tex-Tqyf11TS/FQ0908-001",
+    "store_url": "https://www.nike.com/t/pegasus-trail-5-gore-tex-mens-waterproof-trail-running-shoes-Tqyf11TS/FQ0908-001",
     "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/daf0e3a9-bfaf-41c7-acd0-d28bbaf7316f/NIKE+PEGASUS+TRAIL+5+GTX.png",
     "price_now": 136.97,
     "price_was": 180,
@@ -182,10 +182,10 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/nike-air-TRKSJt/HJ0273-010",
+    "id": "https://www.nike.com/t/air-mens-fleece-pullover-hoodie-TRKSJt/HJ0273-010",
     "title": "Nike Air",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/nike-air-TRKSJt/HJ0273-010",
+    "store_url": "https://www.nike.com/t/air-mens-fleece-pullover-hoodie-TRKSJt/HJ0273-010",
     "img": "https://static.nike.com/a/images/t_default/e61dfd26-aba8-4b6e-a7f8-21b10b5d03f0/M+NIKE+AIR+FLC+PO+HOODIE+BFT.png",
     "price_now": 58.97,
     "price_was": 80,
@@ -312,23 +312,10 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/nike-dunk-low-ppQwKZ/DD1503-101",
-    "title": "Nike Dunk Low",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/nike-dunk-low-ppQwKZ/DD1503-101",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/af53d53d-561f-450a-a483-70a7ceee380f/W+NIKE+DUNK+LOW.png",
-    "price_now": 84.97,
-    "price_was": 120,
-    "currency": "USD",
-    "discount_pct": 29,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/nike-air-max-270-Pgb94t/AH6789-125",
+    "id": "https://www.nike.com/t/air-max-270-womens-shoes-Pgb94t/AH6789-125",
     "title": "Nike Air Max 270",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/nike-air-max-270-Pgb94t/AH6789-125",
+    "store_url": "https://www.nike.com/t/air-max-270-womens-shoes-Pgb94t/AH6789-125",
     "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/795cafdf-43a9-4037-afd2-de63609eae69/W+AIR+MAX+270.png",
     "price_now": 102.97,
     "price_was": 170,
@@ -559,10 +546,10 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/nike-one-4wGHHm/HV2292-010",
+    "id": "https://www.nike.com/t/one-womens-high-waisted-7-8-leggings-4wGHHm/HV2292-010",
     "title": "Nike One",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/nike-one-4wGHHm/HV2292-010",
+    "store_url": "https://www.nike.com/t/one-womens-high-waisted-7-8-leggings-4wGHHm/HV2292-010",
     "img": "https://static.nike.com/a/images/t_default/694b5c1c-30a7-48c0-bf12-c081ab0708b4/W+NK+ONE+DF+HR+7%2F8+TIGHT+CAPSL.png",
     "price_now": 48.97,
     "price_was": 70,
@@ -594,19 +581,6 @@
     "price_was": 95,
     "currency": "USD",
     "discount_pct": 4,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/pro-womens-therma-fit-fleece-hoodie-3z2PCS/HV3600-634",
-    "title": "Nike Pro",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/pro-womens-therma-fit-fleece-hoodie-3z2PCS/HV3600-634",
-    "img": "https://static.nike.com/a/images/t_default/5008d86a-f9e1-4403-994b-569f64f6643d/W+NP+TF+FLC+HOODIE+GG+GRX.png",
-    "price_now": 62.97,
-    "price_was": 90,
-    "currency": "USD",
-    "discount_pct": 30,
     "ends_at": null,
     "category": []
   },
