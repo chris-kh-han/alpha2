@@ -312,6 +312,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/dunk-low-womens-shoes-ppQwKZ/DD1503-101",
+    "title": "Nike Dunk Low",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/dunk-low-womens-shoes-ppQwKZ/DD1503-101",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/af53d53d-561f-450a-a483-70a7ceee380f/W+NIKE+DUNK+LOW.png",
+    "price_now": 84.97,
+    "price_was": 120,
+    "currency": "USD",
+    "discount_pct": 29,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/air-max-270-womens-shoes-Pgb94t/AH6789-125",
     "title": "Nike Air Max 270",
     "store": "www.nike.com",
@@ -494,10 +507,10 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/nike-tempo-luxe-vCq40w/CZ9576-010",
+    "id": "https://www.nike.com/t/tempo-luxe-womens-running-shorts-vCq40w/CZ9576-010",
     "title": "Nike Tempo Luxe",
     "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/nike-tempo-luxe-vCq40w/CZ9576-010",
+    "store_url": "https://www.nike.com/t/tempo-luxe-womens-running-shorts-vCq40w/CZ9576-010",
     "img": "https://static.nike.com/a/images/t_default/8b825a3d-b1d1-433d-816b-a290d40492f6/W+NK+TEMPO+LUXE+SHORT+5IN.png",
     "price_now": 29.97,
     "price_was": 42,
@@ -529,19 +542,6 @@
     "price_was": 90,
     "currency": "USD",
     "discount_pct": 26,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/one-womens-therma-fit-1-2-zip-top-r6gEFE1Y/HV3715-010",
-    "title": "Nike One",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/one-womens-therma-fit-1-2-zip-top-r6gEFE1Y/HV3715-010",
-    "img": "https://static.nike.com/a/images/t_default/87092deb-4f40-434f-afb1-84808e1b83de/W+NK+ONE+TF+HZ+TOP+POLAR+SP.png",
-    "price_now": 62.97,
-    "price_was": 90,
-    "currency": "USD",
-    "discount_pct": 30,
     "ends_at": null,
     "category": []
   },
@@ -581,6 +581,19 @@
     "price_was": 95,
     "currency": "USD",
     "discount_pct": 4,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/pro-womens-therma-fit-fleece-hoodie-3z2PCS/HV3600-634",
+    "title": "Nike Pro",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/pro-womens-therma-fit-fleece-hoodie-3z2PCS/HV3600-634",
+    "img": "https://static.nike.com/a/images/t_default/5008d86a-f9e1-4403-994b-569f64f6643d/W+NP+TF+FLC+HOODIE+GG+GRX.png",
+    "price_now": 62.97,
+    "price_was": 90,
+    "currency": "USD",
+    "discount_pct": 30,
     "ends_at": null,
     "category": []
   },
