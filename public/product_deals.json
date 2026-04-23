@@ -31,10 +31,10 @@
     "store": "www.nike.com",
     "store_url": "https://www.nike.com/t/solo-swoosh-mens-pullover-hoodie-2nbny689/IQ1002-045",
     "img": "https://static.nike.com/a/images/t_default/79fb9434-91c8-4201-9e3d-77e45e0a359b/M+NL+SOLO+SWSH+BB+PO+HOODIE+UF.png",
-    "price_now": 61.97,
+    "price_now": 57.97,
     "price_was": 95,
     "currency": "USD",
-    "discount_pct": 35,
+    "discount_pct": 39,
     "ends_at": null,
     "category": []
   },
@@ -135,10 +135,10 @@
     "store": "www.nike.com",
     "store_url": "https://www.nike.com/t/sportswear-club-mens-washed-cuffed-fleece-pants-QCXpC7Ky/IQ1218-060",
     "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e862093b-34ac-4286-91d3-21246eb3429a/M+NK+CLUB+BB+CUFF+PANT+CWASH.png",
-    "price_now": 60.97,
+    "price_now": 52.97,
     "price_was": 75,
     "currency": "USD",
-    "discount_pct": 19,
+    "discount_pct": 29,
     "ends_at": null,
     "category": []
   },
@@ -403,19 +403,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/one-womens-therma-fit-mid-rise-fleece-pants-yyL8Gy3h/HV3707-010",
-    "title": "Nike One",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/one-womens-therma-fit-mid-rise-fleece-pants-yyL8Gy3h/HV3707-010",
-    "img": "https://static.nike.com/a/images/t_default/e6c4543f-fbf5-4299-ab96-d655d8a864d4/W+NK+ONE+TF+MR+FL+PANT+POLAR.png",
-    "price_now": 55.97,
-    "price_was": 80,
-    "currency": "USD",
-    "discount_pct": 30,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/icon-classic-womens-sandals-c4bCfN/DH0224-001",
     "title": "Nike Icon Classic",
     "store": "www.nike.com",
@@ -533,19 +520,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/one-womens-therma-fit-1-2-zip-top-r6gEFE1Y/HV3715-010",
-    "title": "Nike One",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/one-womens-therma-fit-1-2-zip-top-r6gEFE1Y/HV3715-010",
-    "img": "https://static.nike.com/a/images/t_default/87092deb-4f40-434f-afb1-84808e1b83de/W+NK+ONE+TF+HZ+TOP+POLAR+SP.png",
-    "price_now": 62.97,
-    "price_was": 90,
-    "currency": "USD",
-    "discount_pct": 30,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/one-womens-high-waisted-7-8-leggings-4wGHHm/HV2292-010",
     "title": "Nike One",
     "store": "www.nike.com",
@@ -598,6 +572,32 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/one-womens-dri-fit-high-waisted-fold-over-pants-C6TD6f/FV7848-010",
+    "title": "Nike One",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/one-womens-dri-fit-high-waisted-fold-over-pants-C6TD6f/FV7848-010",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d9cbcb9e-81f7-4ebd-a980-b3cce5f458dc/W+NK+DF+ONE+HR+FLDOVR+PANT.png",
+    "price_now": 50.97,
+    "price_was": 70,
+    "currency": "USD",
+    "discount_pct": 27,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/shox-tl-womens-shoes-TH65kqnj/HV2520-001",
+    "title": "Nike Shox TL",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/shox-tl-womens-shoes-TH65kqnj/HV2520-001",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/300a21e7-e40c-4b20-896c-922e23aa4364/WMNS+NIKE+SHOX+TL.png",
+    "price_now": 131.97,
+    "price_was": 190,
+    "currency": "USD",
+    "discount_pct": 31,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/air-force-1-lv8-big-kids-shoes-9pUXa1MH/IB8845-001",
     "title": "Nike Air Force 1 LV8",
     "store": "www.nike.com",
@@ -629,10 +629,10 @@
     "store": "www.nike.com",
     "store_url": "https://www.nike.com/t/sportswear-club-fleece-big-kids-pullover-hoodie-EukX1sfX/FD3000-323",
     "img": "https://static.nike.com/a/images/t_default/87f4b476-23d0-4d25-bded-72ac66ada499/K+NSW+CLUB+FLC+HDY+LBR.png",
-    "price_now": 29.97,
+    "price_now": 27.97,
     "price_was": 45,
     "currency": "USD",
-    "discount_pct": 33,
+    "discount_pct": 38,
     "ends_at": null,
     "category": []
   },
