@@ -390,19 +390,6 @@
     "category": []
   },
   {
-    "id": "https://www.nike.com/t/sportswear-womens-long-sleeve-graphic-polo-top-aG0c5GHd/HV4033-010",
-    "title": "Nike Sportswear",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/sportswear-womens-long-sleeve-graphic-polo-top-aG0c5GHd/HV4033-010",
-    "img": "https://static.nike.com/a/images/t_default/b3b8e315-22b0-4bbb-a44c-1aef9fd4018c/W+NSW+STREET+LS+GFX+POLO.png",
-    "price_now": 48.97,
-    "price_was": 70,
-    "currency": "USD",
-    "discount_pct": 30,
-    "ends_at": null,
-    "category": []
-  },
-  {
     "id": "https://www.nike.com/t/icon-classic-womens-sandals-c4bCfN/DH0224-001",
     "title": "Nike Icon Classic",
     "store": "www.nike.com",
@@ -477,6 +464,19 @@
     "price_was": 85,
     "currency": "USD",
     "discount_pct": 24,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/one-twist-womens-light-support-lightly-lined-high-neck-sports-bra-p01dZc/FV6500-010",
+    "title": "Nike One Twist",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/one-twist-womens-light-support-lightly-lined-high-neck-sports-bra-p01dZc/FV6500-010",
+    "img": "https://static.nike.com/a/images/t_default/dd4e3a0c-1a72-48d0-8668-ef8dc7f6cfb6/W+NK1+HN+TWIST+BRA.png",
+    "price_now": 35.97,
+    "price_was": 50,
+    "currency": "USD",
+    "discount_pct": 28,
     "ends_at": null,
     "category": []
   },
@@ -581,6 +581,19 @@
     "price_was": 190,
     "currency": "USD",
     "discount_pct": 31,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/shox-r4-womens-shoes-QwoSqA4F/AR3565-601",
+    "title": "Nike Shox R4",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/shox-r4-womens-shoes-QwoSqA4F/AR3565-601",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/be59e414-4e7f-4bc7-94b2-3676ebaa60ef/NIKE+SHOX+R4.png",
+    "price_now": 124.97,
+    "price_was": 155,
+    "currency": "USD",
+    "discount_pct": 19,
     "ends_at": null,
     "category": []
   },
