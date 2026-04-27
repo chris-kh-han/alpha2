@@ -169,6 +169,19 @@
     "category": []
   },
   {
+    "id": "https://www.nike.com/t/dunk-low-retro-se-mens-shoes-wlaYvsTw/IB6399-301",
+    "title": "Nike Dunk Low Retro SE",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/dunk-low-retro-se-mens-shoes-wlaYvsTw/IB6399-301",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/710b2f59-a5dc-407c-8299-53ca124c5e28/NIKE+DUNK+LOW+RETRO+SE.png",
+    "price_now": 104.97,
+    "price_was": 130,
+    "currency": "USD",
+    "discount_pct": 19,
+    "ends_at": null,
+    "category": []
+  },
+  {
     "id": "https://www.nike.com/t/sabrina-3-shooter-basketball-shoes-LArVJUMq/HF2881-002",
     "title": "Sabrina 3 \"Shooter\"",
     "store": "www.nike.com",
@@ -217,6 +230,19 @@
     "price_was": 115,
     "currency": "USD",
     "discount_pct": 39,
+    "ends_at": null,
+    "category": []
+  },
+  {
+    "id": "https://www.nike.com/t/ava-rover-shoes-with-reflective-accents-Ow09rOwc/IM9327-200",
+    "title": "Nike Ava Rover",
+    "store": "www.nike.com",
+    "store_url": "https://www.nike.com/t/ava-rover-shoes-with-reflective-accents-Ow09rOwc/IM9327-200",
+    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3e25f81e-ddc0-4f2e-9fc4-7ba94df725f4/NIKE+AVA+ROVER.png",
+    "price_now": 105.97,
+    "price_was": 145,
+    "currency": "USD",
+    "discount_pct": 27,
     "ends_at": null,
     "category": []
   },
@@ -347,19 +373,6 @@
     "price_was": 120,
     "currency": "USD",
     "discount_pct": 29,
-    "ends_at": null,
-    "category": []
-  },
-  {
-    "id": "https://www.nike.com/t/air-max-270-womens-shoes-Pgb94t/AH6789-125",
-    "title": "Nike Air Max 270",
-    "store": "www.nike.com",
-    "store_url": "https://www.nike.com/t/air-max-270-womens-shoes-Pgb94t/AH6789-125",
-    "img": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/795cafdf-43a9-4037-afd2-de63609eae69/W+AIR+MAX+270.png",
-    "price_now": 102.97,
-    "price_was": 170,
-    "currency": "USD",
-    "discount_pct": 39,
     "ends_at": null,
     "category": []
   },
